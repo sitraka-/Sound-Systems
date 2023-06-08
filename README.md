@@ -1,5 +1,5 @@
 
-![[soundSysPicnic.png]]
+![Sound Systems logo](images/soundSysPicnic.png)
 
 ## speculative cosmologies
 
