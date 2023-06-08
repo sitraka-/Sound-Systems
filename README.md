@@ -1,4 +1,5 @@
-Sound Systems
-this weird
 
+# Sound Systems
+![[soundSysPicnic.png]]
+## speculative cosmologies
 
