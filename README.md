@@ -1,5 +1,5 @@
 
-![Sound Systems logo](_assets/images/soundSysPicnic.png)
+![Sound Systems logo](assets/images/soundSysPicnic.png)
 
 
 [CSM MAID](https://www.arts.ac.uk/subjects/3d-design-and-product-design/postgraduate/ma-industrial-design-csm) x [Very Very Far Away](https://vvfa.space) x [Iklectik Art Lab](https://iklectikartlab.com/)
