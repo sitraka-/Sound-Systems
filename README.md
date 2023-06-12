@@ -1,7 +1,8 @@
 
 ![Sound Systems logo](images/soundSysPicnic.png)
 
-<summary> <h1>SPECULATIVE COSMOLOGIES</h1></summary>
+<summary> <h2 style="display: inline-block;">SPECULATIVE COSMOLOGIES</h2></summary>
+
 [CSM MAID](https://www.arts.ac.uk/subjects/3d-design-and-product-design/postgraduate/ma-industrial-design-csm) x [Very Very Far Away](https://vvfa.space) x [Iklectik Art Lab](https://iklectikartlab.com/)
 
 
@@ -24,4 +25,6 @@ Drawing inspiration from [Ursula K. Le Guin](https://en.wikipedia.org/wiki/Ursul
 
 This project presents an opportunity to explore design as a means of imaginative expression, enabling us to question and critique our existing modes of thinking and being while fostering new possibilities. In this context, design functions as an interface for both generating knowledge and conveying information.  
   
-Our focus will be on crafting objects, instruments, and artefacts that produce sound, while taking careful consideration of how we engage with them — whether individually or collectively, through fast jerky movements or slow soft touches, whilst standing upright or laying down, at noon or during the night, and so on. We will contemplate the ways in which we interact with these objects, their spatial arrangements, and their aesthetic and qualitative attributes, both in their sonic characteristics and materiality. All these aspects will be examined in relation to fictional sociocultural contexts.
+Our focus will be on crafting objects, instruments, and artefacts that produce sound, while taking careful consideration of how we engage with them — whether individually or collectively, through fast jerky movements or slow soft touches, whilst standing upright or laying down, at noon or during the night, and so on. 
+
+We will contemplate the ways in which we interact with these objects, their spatial arrangements, and their aesthetic and qualitative attributes, both in their sonic characteristics and materiality. All these aspects will be examined in relation to fictional sociocultural contexts.
