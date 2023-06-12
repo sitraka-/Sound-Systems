@@ -1,5 +1,6 @@
 title: Sound Systems
-baseurl: "./" # the subpath of your site, e.g. /blog
+baseurl: "/Speculative-Cosmologies" # the subpath of your site, e.g. /blog
+url: "https://sitraka-.github.io"
 
 # Build settings
 markdown: kramdown
