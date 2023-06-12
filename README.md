@@ -1,7 +1,7 @@
 
 ![Sound Systems logo](images/soundSysPicnic.png)
 
-<summary align="center" > <h2 style="display: inline-block;">SPECULATIVE COSMOLOGIES .</h2></summary>
+## SPECULATIVE COSMOLOGIES
 
 [CSM MAID](https://www.arts.ac.uk/subjects/3d-design-and-product-design/postgraduate/ma-industrial-design-csm) x [Very Very Far Away](https://vvfa.space) x [Iklectik Art Lab](https://iklectikartlab.com/)
 
