@@ -1,9 +1,7 @@
 
 ![Sound Systems logo](images/soundSysPicnic.png)
 
-<h1 align="center">SPECULATIVE COSMOLOGIES</h1>
-
-
+# SPECULATIVE COSMOLOGIES
 [CSM MAID](https://www.arts.ac.uk/subjects/3d-design-and-product-design/postgraduate/ma-industrial-design-csm) x [Very Very Far Away](https://vvfa.space) x [Iklectik Art Lab](https://iklectikartlab.com/)
 
 
@@ -11,6 +9,8 @@
 
 
 Anderson, R. et al. (2018, December 18).  Speculative Anthropologies. Society for Cultural Anthropology. ([https://culanth.org/fieldsights/series/speculative-anthropologies](https://culanth.org/fieldsights/series/speculative-anthropologies))
+
+---
 
 ## BACKGROUND
 
