@@ -27,3 +27,4 @@ This project presents an opportunity to explore design as a means of imaginative
 Our focus will be on crafting objects, instruments, and artefacts that produce sound, while taking careful consideration of how we engage with them — whether individually or collectively, through fast jerky movements or slow soft touches, whilst standing upright or laying down, at noon or during the night, and so on. 
 
 We will contemplate the ways in which we interact with these objects, their spatial arrangements, and their aesthetic and qualitative attributes, both in their sonic characteristics and materiality. All these aspects will be examined in relation to fictional sociocultural contexts.
+
