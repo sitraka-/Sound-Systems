@@ -28,3 +28,8 @@ Our focus will be on crafting objects, instruments, and artefacts that produce s
 
 We will contemplate the ways in which we interact with these objects, their spatial arrangements, and their aesthetic and qualitative attributes, both in their sonic characteristics and materiality. All these aspects will be examined in relation to fictional sociocultural contexts.
 
+## DELIVERABLES
+
+This will culminate in the creation of a sound archive consisting of a series of audio tracks, field recordings, foley, and other, alongside short written and/or diagrammatic thick descriptions of the different worlds explored.
+
+Following their realisation and critique, we will perform these specially designed and fabricated devices in a public setting as part of a short seminar on sound making as a speculative and exploratory practice.
