@@ -1,7 +1,7 @@
 
 ![Sound Systems logo](images/soundSysPicnic.png)
 
-## speculative cosmologies
+<p style="text-align:center;"><h2>speculative cosmologies</h2>
 
 
 CSM MAID x Very Very Far Away x Iklectik Art Lab
