@@ -30,6 +30,8 @@ We will contemplate the ways in which we interact with these objects, their spat
 
 ## DELIVERABLES
 
-This will culminate in the creation of a sound archive consisting of a series of audio tracks, field recordings, foley, and other, alongside short written and/or diagrammatic thick descriptions of the different worlds explored.
+This will culminate in the creation of a sound archive consisting of a series of audio tracks, field recordings, Foley, and other, alongside short written and/or diagrammatic thick descriptions of the different worlds explored.
 
 Following their realisation and critique, we will perform these specially designed and fabricated devices in a public setting as part of a short seminar on sound making as a speculative and exploratory practice.
+
+
