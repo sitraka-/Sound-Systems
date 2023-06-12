@@ -1,5 +1,5 @@
 
-![Sound Systems logo](images/soundSysPicnic_w.png)
+![Sound Systems logo](images/soundSysPicnic_uc_w.png)
 
 ## SPECULATIVE COSMOLOGIES
 
