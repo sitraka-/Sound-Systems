@@ -34,11 +34,12 @@ This will culminate in the creation of a sound archive consisting of a series of
 
 Following their realisation and critique, we will perform these specially designed and fabricated devices in a public setting as part of a short seminar on sound making as a speculative and exploratory practice.
 
-<div id="annex" markdown="1">
+<article id="annex" markdown="1">
 # BIBLIOGRAPHY
 
 [Human Considerations, Speculations on Lunar Habitations](https://www.youtube.com/watch?v=_fNXnpDgsec&t=353s&ab_channel=NewSchoolPolicyandDesignforOuterSpace) 
 NSPDOS x Sitraka Rakotoniaina
-</div>
+
+</article>
 
 
