@@ -8,7 +8,7 @@
 > _(Designing)_ at the intersection of speculative fiction and [anthropology](https://www.discoveranthropology.org.uk/about-anthropology/what-is-anthropology.html), we find a sense of [epistemological humility](https://en.wikipedia.org/wiki/Epistemic_humility) about the kind of worlds we could or should inhabit. Yet epistemological humility should not be confused with futility: possibilities and potentialities still matter. We do not know what we are capable of, and yet that need not keep us from the pursuit of [what ifs](https://dunneandraby.co.uk/content/bydandr/496/0). Through the imaginative interpellations of speculative fiction, _(we)_ gravitate toward new localities and means of presence: ecological, technological, [Afro-futuristic](https://www.youtube.com/watch?v=jlPwTMMhGGI), [African-futuristic](https://en.wikipedia.org/wiki/Africanfuturism), [Chicana-futuristic](https://en.wikipedia.org/wiki/Chicanafuturism), _(and so on)_. Facing the imminent prospect of both disaster and discovery, they call us to resist despair and to craft tangible ways of shaping and repairing the worlds we still hope for.
 
 
-Anderson, R. et al. (2018, December 18).  Speculative Anthropologies. Society for Cultural Anthropology. ([https://culanth.org/fieldsights/series/speculative-anthropologies](https://culanth.org/fieldsights/series/speculative-anthropologies))
+Anderson, R. et al. (2018, December 18).  *Speculative Anthropologies*. Society for Cultural Anthropology. ([https://culanth.org/fieldsights/series/speculative-anthropologies](https://culanth.org/fieldsights/series/speculative-anthropologies))
 
 ---
 
@@ -30,6 +30,7 @@ We will contemplate the ways in which we interact with these objects, their spat
 
 > (…) In the age of nth order simulacra the limited beings that we are may need to come to terms with the notion that fiction really exists and reality is unknowable as anything but, hopefully complex, fictions. Reductions of what is there to something we can narrativise. This means that the stakes are very high when you write something down but, paradoxically, this knowledge renders these stakes absurd.
 
+Holt, M. (2017, May 16). _The Terrifying Ambivalence of Theory-Fiction_. Ark Review. (http://arkbooks.dk/the-terrifying-ambivalence-of-theory-fiction)
 
 ## DELIVERABLES
 
