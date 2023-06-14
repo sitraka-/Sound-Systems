@@ -51,6 +51,7 @@ Following their realisation and critique, we will perform these specially design
 - [Museum of imaginary musical instruments](http://imaginaryinstruments.org/)
 
 - Eshun, K. (1999). _More Brilliant Than The Sun: Adventures In Sonic Fiction_. Quartet Books. [PDF](https://monoskop.org/images/b/b2/Eshun_Kodwo_More_Brilliant_Than_the_Sun_Adventures_in_Sonic_Fiction.pdf)
+- Anderson, R. et al. ()
 
 
 </article>
