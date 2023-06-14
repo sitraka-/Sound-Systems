@@ -26,7 +26,10 @@ This project presents an opportunity to explore design as a means of imaginative
   
 Our focus will be on crafting objects, instruments, and artefacts that produce sound, while taking careful consideration of how we engage with them — whether individually or collectively, through fast jerky movements or slow soft touches, whilst standing upright or laying down, at noon or during the night, and so on. 
 
-We will contemplate the ways in which we interact with these objects, their spatial arrangements, and their aesthetic and qualitative attributes, both in their sonic characteristics and materiality. All these aspects will be examined in relation to fictional sociocultural contexts, that we will collectively dream, imagine and define.
+We will contemplate the ways in which we interact with these objects, their spatial arrangements, and their aesthetic and qualitative attributes, both in their sonic characteristics and materiality. All these aspects will be examined in relation to fictional socio-cultural contexts, that we will collectively dream, imagine and define, by departing from what is real to explore other and potentially new ideological projects.
+
+> (…) In the age of nth order simulacra the limited beings that we are may need to come to terms with the notion that fiction really exists and reality is unknowable as anything but, hopefully complex, fictions. Reductions of what is there to something we can narrativise. This means that the stakes are very high when you write something down but, paradoxically, this knowledge renders these stakes absurd.
+
 
 ## DELIVERABLES
 
