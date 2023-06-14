@@ -30,7 +30,7 @@ We will contemplate the ways in which we interact with these objects, their spat
 
 > (…) In the age of nth order simulacra the limited beings that we are may need to come to terms with the notion that fiction really exists and reality is unknowable as anything but, hopefully complex, fictions. Reductions of what is there to something we can narrativise. This means that the stakes are very high when you write something down but, paradoxically, this knowledge renders these stakes absurd.
 
-Holt, M. (2017, May 16). _The Terrifying Ambivalence of Theory-Fiction_. Ark Review. (http://arkbooks.dk/the-terrifying-ambivalence-of-theory-fiction)
+Holt, M. (2017, May 16). _The Terrifying Ambivalence of Theory-Fiction_. Ark Review. ([http://arkbooks.dk/the-terrifying-ambivalence-of-theory-fiction](http://arkbooks.dk/the-terrifying-ambivalence-of-theory-fiction))
 
 ## DELIVERABLES
 
