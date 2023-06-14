@@ -1,3 +1,3 @@
 ![FAUST](assets/images/faust.png)
 
-MUSIC PROGRAMMING / DIGITAL SIGNAL PROCESSING with [FAUST](https://faust.grame.fr/)
+Music programming / Digital Signal Processing with [FAUST](https://faust.grame.fr/)
