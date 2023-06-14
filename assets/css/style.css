@@ -1,3 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,500;0,700;1,500&family=IBM+Plex+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Vesper+Libre:wght@400;700&display=swap');
+
+:root{
+    --main-color: #a9b5c2;
+    --bg: #22272e;
+    --link-color: #539bf5;
+    --secondary-color: #74808d;
+    --display-font: 'IBM Plex Mono', monospace;
+    --body-font: 'IBM Plex Sans', sans-serif;
+    --quote-font: 'Vesper Libre', serif;
+}
+
 body{
-background:red;
+    background: var(--bg);
+    color: var(--main-color);
+    font-family: var(--body-font);
+    line-height:1.4;
+    font-size: 1rem;
+/*     text-align: justify; */
+}
+.markdown-body{
+    max-width: 610px;
+}
+a{
+    color: var(--link-color);
+    text-decoration:none;
+}
+blockquote{
+    color: var(--secondary-color);
+    font-family: var(--quote-font);
+/*     font-style:italic; */
+    border-left:solid 3px var(--link-color);
+
+    margin:0;
+    padding-left:2rem;
+    
+}
+
+img:first-child{
+    filter:invert(100%);
+}
+h1,h2{
+    text-transform:uppercase;
+    font-family: var(--display-font)
+}
+hr{
+    border-color: var(--main-color);
+}
+
+p{
+    max-width: 800px;
 }
