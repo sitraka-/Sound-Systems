@@ -75,7 +75,7 @@ img:first-child{
 }
 
 h2 {
-    border-top: solid 2px var(--secondary-color);
+    border-top: solid 2px var(--link-color);
     padding-top: 1rem;
 }
 h1,h2{
@@ -90,7 +90,7 @@ h2:first-of-type{
 }
 
 hr{
-    border-color: var(--main-color);
+    border-color: var(--link-color);
 }
 
 p{
@@ -109,10 +109,12 @@ article{
 }
 article h1{
     font-size: 2em;
+    line-height: 1;
 }
 
 article ul{
-    padding:1rem;
+    padding: 0 1rem;
+    margin-top: 0;
 }
 
 @media only screen and (max-width: 1280px){
@@ -128,6 +130,12 @@ article ul{
     }
 }
 
+@media only screen and (max-width: 700px){
+    .markdown-body{
+        min-width:unset;
+        width:100%;
+    }
+}
 
 
 

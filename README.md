@@ -42,6 +42,11 @@ Following their realisation and critique, we will perform these specially design
 <article id="annex" markdown="1">
 <h1>ANNEX</h1>
 
+<h2>CONTENT</h2>
+
+[Main Syllabus](./)
+[Faust](faust.md)
+
 <h2>REFERENCES</h2>
 
 - Rakotoniaina, S. & [NS-PDOS](https://www.youtube.com/@newschoolpolicyanddesignfo5504/vide) (2021),  [*Human Considerations, Speculations on Lunar Habitations*](https://www.youtube.com/watch?v=_fNXnpDgsec&t=353s&ab_channel=NewSchoolPolicyandDesignforOuterSpace). Italian Virtual Pavillion. Venice Architecture Biennale.
