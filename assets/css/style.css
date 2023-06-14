@@ -102,6 +102,9 @@ article{
     right: 0px;
     width:33%;
     padding-right:3rem;
+    overflow-wrap: break-word;
+  word-wrap: break-word;
+    hyphens: auto;
 }
 article h1{
     font-size: 2em;
@@ -120,6 +123,7 @@ article ul{
         margin-top: 2rem;
   }
 }
+
 
 
 
