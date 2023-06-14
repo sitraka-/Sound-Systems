@@ -44,8 +44,8 @@ Following their realisation and critique, we will perform these specially design
 
 <h2>CONTENT</h2>
 
-[Main Syllabus](./)
-[Faust](faust.md)
+- [Main Syllabus](./)
+- [Faust](FAUST.md)
 
 <h2>REFERENCES</h2>
 
