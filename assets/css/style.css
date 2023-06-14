@@ -8,11 +8,16 @@
     --display-font: 'IBM Plex Mono', monospace;
     --body-font: 'IBM Plex Sans', sans-serif;
     --quote-font: 'Vesper Libre', serif;
-    --maxW: 790px;
+    --maxW: 700px;
 }
 
 body{
-    background: var(--bg);
+    background: #0d0f12;
+/*     var(--bg); */
+/*     background-image: url("../../assets/images/AC76-1089.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
     color: var(--main-color);
     font-family: var(--body-font);
     line-height:1.4;
@@ -20,10 +25,29 @@ body{
 /*     text-align: justify; */
     margin: 0;
     padding: 2rem 3rem 3rem 3rem;
+    overflow-x:hidden;
+}
+
+body::before{
+    content: "";
+    background-image: url("../../assets/images/AC76-1089.jpeg");
+    background-position: center;
+/*     background-attachment: fixed; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    z-index:-1;
+    opacity:0.25;
+    
 }
 .markdown-body{
     min-width: var(--maxW);
     width:33%;
+    z-index:0;
 }
 a{
     color: var(--link-color);
@@ -73,10 +97,11 @@ p{
 }
 
 article{
-    position:fixed;
+    position:absolute;
     top: 2rem;
-    left: calc( var(--maxW) + 6rem );
+    right: 0px;
     width:33%;
+    padding-right:3rem;
 }
 article h1{
     font-size: 2em;
@@ -95,4 +120,5 @@ article ul{
         margin-top: 2rem;
   }
 }
+
 
