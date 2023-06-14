@@ -8,6 +8,7 @@
     --display-font: 'IBM Plex Mono', monospace;
     --body-font: 'IBM Plex Sans', sans-serif;
     --quote-font: 'Vesper Libre', serif;
+    --maxW: 790px;
 }
 
 body{
@@ -21,7 +22,8 @@ body{
     padding: 0 1rem 1rem 1rem;
 }
 .markdown-body{
-    max-width: 790px;
+    min-width: var(--maxW);
+    width:33%;
 }
 a{
     color: var(--link-color);
@@ -65,4 +67,24 @@ hr{
 
 p{
     max-width: 800px;
+}
+
+article{
+    position:fixed;
+    top: 0;
+    left: calc( var(--maxW) + 2rem );
+    width:33%;
+}
+article h1{
+    font-size: 2em;
+}
+
+@media only screen and (max-width: 1280px){
+    article {
+        position:relative;
+        left:0;
+        border-top: solid;
+        width:100%;
+        margin-top: 2rem;
+  }
 }
