@@ -4,7 +4,7 @@
     --main-color: #a9b5c2;
     --bg: #22272e;
     --link-color: #539bf5;
-    --secondary-color: #74808d;
+    --secondary-color: #74808d22;
     --display-font: 'IBM Plex Mono', monospace;
     --body-font: 'IBM Plex Sans', sans-serif;
     --quote-font: 'Vesper Libre', serif;
@@ -17,32 +17,48 @@ body{
     line-height:1.4;
     font-size: 1rem;
 /*     text-align: justify; */
+    margin: 0;
+    padding: 0 1rem 1rem 1rem;
 }
 .markdown-body{
-    max-width: 610px;
+    max-width: 790px;
 }
 a{
     color: var(--link-color);
     text-decoration:none;
 }
 blockquote{
-    color: var(--secondary-color);
+/*     color: var(--secondary-color); */
+    background-color: var(--secondary-color);
     font-family: var(--quote-font);
 /*     font-style:italic; */
     border-left:solid 3px var(--link-color);
 
     margin:0;
-    padding-left:2rem;
+    padding:1rem 2rem;
+    font-size:1.2rem;
     
 }
 
 img:first-child{
     filter:invert(100%);
+    width: 100%;
+}
+
+h2 {
+    border-top: solid 2px var(--secondary-color);
+    padding-top: 1rem;
 }
 h1,h2{
     text-transform:uppercase;
     font-family: var(--display-font)
 }
+
+h2:first-of-type{
+    border: none;
+    padding-top:0;
+}
+
 hr{
     border-color: var(--main-color);
 }
