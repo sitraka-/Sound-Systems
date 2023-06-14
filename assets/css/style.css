@@ -251,7 +251,7 @@ blockquote:last-of-type{
     margin-left:3rem;
     font-size: 1rem;
     background: none;
-    border-left:solid thin var(--link-color);
+    border-left:dashed thin var(--link-color);
     
 }
 blockquote:last-of-type h1{
@@ -304,15 +304,6 @@ blockquote:last-of-type ul{
 }
 
 
-#arrow {
-    border-right:2px solid black;
-    border-bottom:2px solid black;
-    width:10px;
-    height:10px;
-    transform: rotate(-45deg);
-    margin-top:40px;
-}
-
 
 
 ul li {
@@ -327,14 +318,15 @@ ul {
 ul li:before{
    content: '';
    position: absolute;
-   border-right:2px solid black;
-   border-bottom:2px solid black;
+   border-right:2px solid var(--link-color);
+   border-bottom:none;
    width:10px;
    height:10px;
-   top: calc(50% - 4px);
+   top: 10px;
    left: -20px;
    transform: translateY(-50%) rotate(-45deg);
 }
+
 
 
 
