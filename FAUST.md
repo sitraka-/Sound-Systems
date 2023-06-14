@@ -1,0 +1,3 @@
+![FAUST](assets/images/faust.png)
+
+MUSIC PROGRAMMING / SIGNAL PROCESSING
