@@ -45,13 +45,12 @@ Following their realisation and critique, we will perform these specially design
 <h2>LINKS & BIBLIOGRAPHY</h2>
 
 
-[Human Considerations, Speculations on Lunar Habitations](https://www.youtube.com/watch?v=_fNXnpDgsec&t=353s&ab_channel=NewSchoolPolicyandDesignforOuterSpace) 
+- [*Human Considerations, Speculations on Lunar Habitations*](https://www.youtube.com/watch?v=_fNXnpDgsec&t=353s&ab_channel=NewSchoolPolicyandDesignforOuterSpace) 
 [New School Policy and Design for Outer Space](https://www.youtube.com/@newschoolpolicyanddesignfo5504/videos) x Sitraka Rakotoniaina
 
-[Museum of imaginary musical instruments](http://imaginaryinstruments.org/)
+- [Museum of imaginary musical instruments](http://imaginaryinstruments.org/)
 
-Eshun, K. (1999). _More Brilliant Than The Sun: Adventures In Sonic Fiction_. Quartet Books.
-[PDF of the book](https://monoskop.org/images/b/b2/Eshun_Kodwo_More_Brilliant_Than_the_Sun_Adventures_in_Sonic_Fiction.pdf)
+- Eshun, K. (1999). _More Brilliant Than The Sun: Adventures In Sonic Fiction_. Quartet Books. [PDF](https://monoskop.org/images/b/b2/Eshun_Kodwo_More_Brilliant_Than_the_Sun_Adventures_in_Sonic_Fiction.pdf)
 
 
 </article>
