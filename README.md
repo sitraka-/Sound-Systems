@@ -44,7 +44,7 @@ Following their realisation and critique, we will perform these specially design
 
 <h2>LINKS & BIBLIOGRAPHY</h2>
 [Human Considerations, Speculations on Lunar Habitations](https://www.youtube.com/watch?v=_fNXnpDgsec&t=353s&ab_channel=NewSchoolPolicyandDesignforOuterSpace) 
-NSPDOS x Sitraka Rakotoniaina
+[New School Policy and Design for Outer Space] x Sitraka Rakotoniaina
 
 </article>
 
