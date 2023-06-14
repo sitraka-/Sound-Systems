@@ -34,19 +34,13 @@ This will culminate in the creation of a sound archive consisting of a series of
 
 Following their realisation and critique, we will perform these specially designed and fabricated devices in a public setting as part of a short seminar on sound making as a speculative and exploratory practice.
 
-# ANNEX
+<div id="annex" markdown=1>
+# Bibliography
 
 [Human Considerations, Speculations on Lunar Habitations]([https://www.youtube.com/watch?v=_fNXnpDgsec&t=353s&ab_channel=NewSchoolPolicyandDesignforOuterSpace) 
 NSPDOS x Sitraka Rakotoniaina
 
-Lunar Denizens: A Welcoming Party :: NSPDOS x VVFA x Santa Fe Institute
 
-[https://www.youtube.com/watch?v=zP4HwKMMrZg&t=4s&ab_channel=NewSchoolPolicyandDesignforOuterSpace](https://www.youtube.com/watch?v=zP4HwKMMrZg&t=4s&ab_channel=NewSchoolPolicyandDesignforOuterSpace)
-
-  
-
-Lunar Denizens: Moonlife :: NSPDOS x VVFA x Santa Fe Institute
-
-[https://www.youtube.com/watch?v=OiR_zynt38g&t=768s&ab_channel=NewSchoolPolicyandDesignforOuterSpace](https://www.youtube.com/watch?v=OiR_zynt38g&t=768s&ab_channel=NewSchoolPolicyandDesignforOuterSpace)
+</div>
 
 
