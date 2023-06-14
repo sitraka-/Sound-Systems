@@ -46,7 +46,8 @@ Following their realisation and critique, we will perform these specially design
 
 
 - [*Human Considerations, Speculations on Lunar Habitations*](https://www.youtube.com/watch?v=_fNXnpDgsec&t=353s&ab_channel=NewSchoolPolicyandDesignforOuterSpace) 
-[New School Policy and Design for Outer Space](https://www.youtube.com/@newschoolpolicyanddesignfo5504/videos) x Sitraka Rakotoniaina
+  
+  [New School Policy and Design for Outer Space](https://www.youtube.com/@newschoolpolicyanddesignfo5504/videos) x Sitraka Rakotoniaina
 
 - [Museum of imaginary musical instruments](http://imaginaryinstruments.org/)
 
