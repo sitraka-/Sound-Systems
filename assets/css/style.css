@@ -4,7 +4,7 @@
     --main-color: #a9b5c2;
     --bg: #22272e;
     --link-color: #6ecd90;
-    --secondary-color: #505a6522;
+    --secondary-color: #171c20d4;
     --display-font: 'IBM Plex Mono', monospace;
     --body-font: 'IBM Plex Sans', sans-serif;
     --quote-font: 'Vesper Libre', serif;
@@ -70,7 +70,7 @@ blockquote{
 }
 
 img:first-child{
-    filter:invert(100%);
+/*     filter:invert(100%); */
     width: 100%;
 }
 
@@ -80,7 +80,8 @@ h2 {
 }
 h1,h2{
     text-transform:uppercase;
-    font-family: var(--display-font)
+    font-family: var(--display-font);
+    color: var(--link-color);
 }
 
 h2:first-of-type{
@@ -103,7 +104,7 @@ article{
     width:33%;
     padding-right:3rem;
     overflow-wrap: break-word;
-  word-wrap: break-word;
+    word-wrap: break-word;
     hyphens: auto;
 }
 article h1{
@@ -118,11 +119,15 @@ article ul{
     article {
         position:relative;
         left:0;
-        border-top: solid;
+/*         border-top: solid; */
         width:100%;
-        margin-top: 2rem;
+/*         margin-top: 2rem; */
   }
+    article h1{
+        margin-top: 0;
+    }
 }
+
 
 
 

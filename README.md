@@ -14,7 +14,7 @@ Anderson, R. et al. (2018, December 18).  *Speculative Anthropologies*. Society 
 
 ## BACKGROUND
 
-Just as [Sun Ra](https://en.wikipedia.org/wiki/Sun_Ra) used music to transcend time and space, in "[Space is the place](https://youtu.be/vHLOPBx2BaE)", our speculative Sound Systems strive to diminish the distinction between sonic experiences and music as a means of intellectual exploration.  
+Just as [Sun Ra](https://en.wikipedia.org/wiki/Sun_Ra) used music to transcend time and space, in "[Space is the place](https://youtu.be/vHLOPBx2BaE)", our Sound Systems strive to diminish the distinction between sonic experiences and music as a means of intellectual exploration.  
   
 Our goal is to embark on voyages to distant lands and spaces, akin to intrepid explorers of uncharted territories, and convey our discoveries through sonic experiences and performances aiming to unveil fresh interpretations and shed new light on our connection with the world.  
   
