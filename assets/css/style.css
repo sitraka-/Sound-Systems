@@ -3,8 +3,8 @@
 :root{
     --main-color: #a9b5c2;
     --bg: #22272e;
-    --link-color: #539bf5;
-    --secondary-color: #74808d22;
+    --link-color: #6ecd90;
+    --secondary-color: #505a6522;
     --display-font: 'IBM Plex Mono', monospace;
     --body-font: 'IBM Plex Sans', sans-serif;
     --quote-font: 'Vesper Libre', serif;
@@ -30,7 +30,7 @@ body{
 
 body::before{
     content: "";
-    background-image: url("../../assets/images/AC76-0492.1.jpeg");
+    background-image: url("../../assets/images/AC76-1089.jpeg");
     background-position: center;
 /*     background-attachment: fixed; */
     background-repeat: no-repeat;
@@ -41,7 +41,7 @@ body::before{
     right:0;
     bottom:0;
     z-index:-1;
-    opacity:0.20;
+    opacity:0.25;
     
 }
 .markdown-body{
@@ -102,9 +102,6 @@ article{
     right: 0px;
     width:33%;
     padding-right:3rem;
-    hyphens:auto;
-    overflow-wrap: break-word;
-    word-wrap: break-word;
 }
 article h1{
     font-size: 2em;
@@ -118,10 +115,11 @@ article ul{
     article {
         position:relative;
         left:0;
-        /* border-top: solid; */
+        border-top: solid;
         width:100%;
         margin-top: 2rem;
   }
 }
+
 
 
