@@ -42,7 +42,7 @@ Following their realisation and critique, we will perform these specially design
 <article id="annex" markdown="1">
 <h1>ANNEX</h1>
 
-<h2>CONTENT</h2>
+<h2>INDEX</h2>
 
 - [Main Syllabus](./)
 - [Faust](FAUST.md)
