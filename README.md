@@ -24,7 +24,7 @@ Drawing inspiration from [Ursula K. Le Guin](https://en.wikipedia.org/wiki/Ursul
 
 This project presents an opportunity to explore design as a means of imaginative expression, enabling us to question and critique our existing modes of thinking and being while fostering new possibilities. In this context, design functions as an interface for both generating knowledge and conveying information.  
   
-Our focus will be on crafting objects, instruments, and artefacts that produce sound, while taking careful consideration of how we engage with them — whether individually or collectively, through fast jerky movements or slow soft touches, whilst standing upright or laying down, at noon or during the night, and so on. 
+Our focus will be on crafting objects, instruments, and artefacts that produce sound, while taking careful consideration of how we engage with them — whether individually or collectively, through fast jerky movements or slow soft touches, whilst standing upright or laying down, at dawn or dusk, and so on. 
 
 We will contemplate the ways in which we interact with these objects, their spatial arrangements, and their aesthetic and qualitative attributes, both in their sonic characteristics and materiality. All these aspects will be examined in relation to fictional socio-cultural contexts, that we will collectively dream, imagine and define, by departing from what is real to explore other and potentially new ideological projects.
 
