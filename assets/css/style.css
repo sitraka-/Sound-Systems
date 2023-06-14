@@ -242,7 +242,7 @@ blockquote:last-of-type{
     position:absolute;
     top: 2rem;
     left: 50%;
-    width:33%;
+/*     width: calc( 100% - 50%); */
     padding:0 3rem;
     overflow-wrap: break-word;
     word-wrap: break-word;
@@ -250,6 +250,9 @@ blockquote:last-of-type{
     font-family: var(--body-font);
     margin-left:3rem;
     font-size: 1rem;
+    background: none;
+    border-left:solid thin var(--link-color);
+    
 }
 blockquote:last-of-type h1{
     font-size: 2em;
@@ -301,6 +304,37 @@ blockquote:last-of-type ul{
 }
 
 
+#arrow {
+    border-right:2px solid black;
+    border-bottom:2px solid black;
+    width:10px;
+    height:10px;
+    transform: rotate(-45deg);
+    margin-top:40px;
+}
+
+
+
+ul li {
+  position: relative;
+	padding-bottom: 10px;
+}
+
+ul {
+  list-style: none;
+}
+
+ul li:before{
+   content: '';
+   position: absolute;
+   border-right:2px solid black;
+   border-bottom:2px solid black;
+   width:10px;
+   height:10px;
+   top: calc(50% - 4px);
+   left: -20px;
+   transform: translateY(-50%) rotate(-45deg);
+}
 
 
 
