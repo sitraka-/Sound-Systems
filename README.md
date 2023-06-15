@@ -30,7 +30,7 @@ We will contemplate the ways in which we interact with these objects, their spat
 
 Finally we will embody these new worlds through the organisation and performance of rituals, events, and/or situations associated with these speculative spaces.
 
-> (…) In the age of nth order [simulacra](https://archive.org/details/simulacra-and-simulation-1995-university-of-michigan-press/mode/2up) the limited beings that we are may need to come to terms with the notion that fiction really exists and reality is unknowable as anything but, hopefully complex, fictions. Reductions of what is there to something we can narrativise. This means that the stakes are very high when you write something down but, paradoxically, this knowledge renders these stakes absurd.
+> (…) In the age of nth order [simulacra](https://en.wikipedia.org/wiki/Simulacrum) the limited beings that we are may need to come to terms with the notion that fiction really exists and reality is unknowable as anything but, hopefully complex, fictions. Reductions of what is there to something we can narrativise. This means that the stakes are very high when you write something down but, paradoxically, this knowledge renders these stakes absurd.
 
 Holt, M. (2017, May 16). _The Terrifying Ambivalence of Theory-Fiction_. Ark Review. ([http://arkbooks.dk/the-terrifying-ambivalence-of-theory-fiction](http://arkbooks.dk/the-terrifying-ambivalence-of-theory-fiction))
 
@@ -68,5 +68,6 @@ To begin our exploration we will
 > - Davison-Vecchione, D. & Seeger, S. (2021). _Ursula Le Guin’s Speculative Anthropology: Thick Description, Historicity and Science Fiction_. Theory, Culture & Society. Sage Publication. ([https://journals.sagepub.com/doi/pdf/10.1177/02632764211051780](https://journals.sagepub.com/doi/pdf/10.1177/02632764211051780))
 > - Kuh, A. (2015, January 14). _The Cultural Significance Of Space Exploration_. UK Space Agency. ([https://space.blog.gov.uk/2015/01/14/the-cultural-significance-of-space-exploration/](https://space.blog.gov.uk/2015/01/14/the-cultural-significance-of-space-exploration/))
 > - Horniman Museum's [instrument collection](https://www.horniman.ac.uk/explore-the-collections/musical-instrument-collection/)
+> - Beaudrillard, J. (1981). _Simulation And Simulacra_. Editions Galilee. ([https://archive.org/details/simulacra-and-simulation-1995-university-of-michigan-press/mode/2up](https://archive.org/details/simulacra-and-simulation-1995-university-of-michigan-press/mode/2up))
 
 
