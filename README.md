@@ -58,7 +58,9 @@ Following the completion of this world-building session, our next step will invo
 
 ## CRAFTING
 
-Following our initial  session, we will take a look at the practical means we will be using to build and create our "sound engines". This repository contains references and 
+After the initial session, our focus will shift towards exploring the practical aspects of sound production. Specifically, we will delve into the development and construction of "sound engines" utilizing programming environments like FAUST and Arduino, as well as embedded electronic platforms such as PRJC's Teensy.
+
+During our studio time, we will delve deeper into the functionalities and capabilities of these platforms. As the projects begin to take shape, we will offer more targeted assistance and support. In the meantime, this repository has been compiled with valuable references, introductory materials, and relevant examples for each of these platforms. This repository serves as an excellent starting point for further exploration and experimentation.
 
 ---
 
