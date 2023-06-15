@@ -187,8 +187,8 @@ blockquote:last-of-type ul {
 @media only screen and (max-width: 1700px) {
     .markdown-body {
         min-width: 50%;
-        max-width: 50%;
-        width: 100%;
+        max-width: 700px;
+        /* width: 100%; */
         /*         background: red; */
     }
 
