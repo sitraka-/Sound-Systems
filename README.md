@@ -28,6 +28,8 @@ Our focus will be on crafting objects, instruments, and artefacts that produce s
 
 We will contemplate the ways in which we interact with these objects, their spatial arrangements, and their aesthetic and qualitative attributes, both in their sonic characteristics and materiality. All these aspects will be examined in relation to fictional socio-cultural contexts, that we will collectively dream, imagine and define, by departing from what is real to explore other and potentially new ideological projects.
 
+Finally we will embody these new worlds through the making and crafting of rituals, events relative to these speculated spaces.
+
 > (…) In the age of nth order simulacra the limited beings that we are may need to come to terms with the notion that fiction really exists and reality is unknowable as anything but, hopefully complex, fictions. Reductions of what is there to something we can narrativise. This means that the stakes are very high when you write something down but, paradoxically, this knowledge renders these stakes absurd.
 
 Holt, M. (2017, May 16). _The Terrifying Ambivalence of Theory-Fiction_. Ark Review. ([http://arkbooks.dk/the-terrifying-ambivalence-of-theory-fiction](http://arkbooks.dk/the-terrifying-ambivalence-of-theory-fiction))
