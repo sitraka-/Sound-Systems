@@ -50,9 +50,11 @@ Geertz, C. (1973). _The Interpretation Of Cultures_. Basic Books. ([https://is.m
 
 ## WORLD-BUILDING
 
-To begin our exploration we will first engage in a collective work session, to kickstart our rapid ideation process. This exercise in collective world-building will focus on examining notions of habitability and belonging, and how can these shape and inform modes of living in new localities.
+To begin our exploration we will first engage in a collective work session, aimed at jumpstarting our ideation process. Our primary objective will be to examine ideas of habitability and belonging and explore how these notions can shape and influence other modes of existence in unfamiliar environments.
 
-To guide us through this exercise, we will focus our concerns on 4 locations: a space station in Low Earth Orbit (LEO), a Moon settlement, a Mars settlement, and a spacecraft on a 100 years journey to [Proxima Centauri B](https://exoplanets.nasa.gov/resources/2211/proxima-b-3d-model/#:~:text=At%20only%20four%20light%2Dyears,discovery%20was%20announced%20in%202016.). Which we will approach through the lens of 4 generic key concerns such as governance, economics, ethics and community. The aim is to stimulate alternative thinking about familiar and earthbound experiences.
+During this exercise, we will concentrate our attention on four specific locations: a space station in Low Earth Orbit (LEO), a settlement on the Moon, a settlement on Mars, and a spacecraft embarking on a 100-year journey to [Proxima Centauri B](https://exoplanets.nasa.gov/resources/2211/proxima-b-3d-model/#:~:text=At%20only%20four%20light%2Dyears,discovery%20was%20announced%20in%202016.). To facilitate our exploration, we will analyse these locations through the lens of four overarching key concerns: governance, economics, ethics, and community.The aim is to stimulate alternative thinking about familiar and earthbound experiences.
+
+Following this wor
 
 ---
 
