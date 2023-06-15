@@ -48,7 +48,7 @@ Geertz, C. (1973). _The Interpretation Of Cultures_. Basic Books. ([https://is.m
 
 ## WORLD-BUILDING
 
-To begin our exploration we will first engage in a collective work sessions
+To begin our exploration we will first engage in a collective work session, to kickstart our ideation process.
 
 ---
 
