@@ -38,7 +38,7 @@ Holt, M. (2017, May 16). _The Terrifying Ambivalence of Theory-Fiction_. Ark Rev
 
 This project will culminate in the creation of:
 - A sound archive consisting of a series of audio tracks informed by our rituals and objects.
-- A short but "[thick](https://www.youtube.com/watch?v=avW6g31hy-c&ab_channel=Then%26Now)" description of the ritual/event, in the form of a narrative piece of writing.
+- A short but "[thick](https://www.youtube.com/watch?v=avW6g31hy-c&ab_channel=Then%26Now)" description of the ritual/event, in the form of a narrative piece of writing (~300 words).
 - A 5 minute performance of the ritual/event at Iklectik.
 - A well considered photograph of the sound making items, objects, or artefacts created.
 
