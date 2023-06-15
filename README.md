@@ -35,12 +35,10 @@ Holt, M. (2017, May 16). _The Terrifying Ambivalence of Theory-Fiction_. Ark Rev
 ## DELIVERABLES
 
 This project will culminate in the creation of:
-1.  A sound archive consisting of a series of audio tracks
-2.  A short but "thick" description of the ritual/event, in the form of a narrative piece of writing
-3.  A 5 minute performance of the ritual/event at Iklectik
-4.  A studio photograph of the sound making items, objects, artefacts.
-
-Following their realisation and critique, we will perform these specially designed and fabricated devices in a public setting as part of a short seminar on sound making as a speculative and exploratory practice.
+1.  A sound archive consisting of a series of audio tracks.
+2.  A short but "thick" description of the ritual/event, in the form of a narrative piece of writing.
+3.  A 5 minute performance of the ritual/event at Iklectik.
+4.  A well considered photograph of the sound making items, objects, or artefacts.
 
 ---
 
