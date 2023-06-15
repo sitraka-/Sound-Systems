@@ -59,7 +59,7 @@ Geertz, C. (1973). _The Interpretation Of Cultures_. Basic Books. ([https://is.m
 > - [Main Syllabus](./)
 > - [Faust](FAUST.md)
 > 
-> ## REFERENCES
+> ## OTHER REFERENCES
 > 
 > - Rakotoniaina, S. & [NS-PDOS](https://www.youtube.com/@newschoolpolicyanddesignfo5504/vide) (2021),  [*Human Considerations, Speculations on Lunar Habitations*](https://www.youtube.com/watch?v=_fNXnpDgsec&t=353s&ab_channel=NewSchoolPolicyandDesignforOuterSpace). Italian Virtual Pavilion. Venice Architecture Biennale.
 > - Loughridge, D. & Patteson, T. (2013),  [*Museum of imaginary musical instruments*](http://imaginaryinstruments.org/)
