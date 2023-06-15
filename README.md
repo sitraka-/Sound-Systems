@@ -56,9 +56,9 @@ During this exercise, we will concentrate our attention on four specific locatio
 
 Following the completion of this world-building session, our next step will involve dividing into smaller groups. Within these groups, each team will be tasked with identifying key situations and narratives that will serve as the foundation for their respective projects.
 
-## CRAFTING
+## SOUND PRODUCTION
 
-After the initial session, our focus will shift towards exploring the practical aspects of sound production. Specifically, we will delve into the development and construction of "sound engines" utilising programming environments like FAUST and Arduino, as well as embedded electronic platforms such as PRJC's Teensy.
+After the initial session, our focus will shift towards exploring the practical aspects of sound production. Specifically, we will delve into the development and construction of "sound engines" utilising programming environments like [FAUST](https://faust.grame.fr/) and [Arduino](https://www.arduino.cc/), as well as the USB-based microcontroller development system [PRJC's Teensy](https://www.pjrc.com/teensy/).
 
 During our studio time, we will delve deeper into the functionalities and capabilities of these platforms. As the projects begin to take shape, we will offer more targeted assistance and support. In the meantime, this repository has been compiled with valuable references, introductory materials, and relevant examples for each of these platforms. This repository serves as an excellent starting point for further exploration and experimentation.
 
