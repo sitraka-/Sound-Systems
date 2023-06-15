@@ -69,7 +69,9 @@ During our studio time, we will delve deeper into the functionalities and capabi
 > ## INDEX
 > 
 > - [Main Syllabus](./)
-> - [Faust](FAUST.md)
+> - [Introduction to FAUST](FAUST.md)
+> - [FAUST IDE](faustide.grame.fr)
+> - [Teensy set up](https://www.pjrc.com/teensy/tutorial.html)
 > 
 > ## OTHER REFERENCES
 > 
