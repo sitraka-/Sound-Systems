@@ -58,7 +58,7 @@ Following the completion of this world-building session, our next step will invo
 
 ## CRAFTING
 
-
+Following our initial  session, we will take a look at the practical means we will be using to build and create our "sound engines". This repository contains references and 
 
 ---
 
