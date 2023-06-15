@@ -5,9 +5,12 @@
     --bg: #22272e;
     --link-color: #6ecd90;
     --secondary-color: #171c20d4;
-    --display-font: 'IBM Plex Mono', monospace;
-    --body-font: 'IBM Plex Sans', sans-serif;
-    --quote-font: 'Vesper Libre', serif;
+    --display-font:
+        'IBM Plex Mono', monospace;
+    --body-font:
+        'IBM Plex Sans', sans-serif;
+    --quote-font:
+        'Vesper Libre', serif;
     --maxW: 50%;
     --minW: 700px;
 }
@@ -139,7 +142,7 @@ blockquote:last-of-type ul {
         position: relative;
         left: 0;
         /*         border-top: solid; */
-        width: 100%;
+        width: 100% !important;
         /*         margin-top: 2rem; */
         top: 0;
         padding: 0 3rem 0 0;
@@ -192,9 +195,9 @@ blockquote:last-of-type ul {
         /*         background: red; */
     }
 
-    /* blockquote:last-of-type {
-        max-width: 50%; 
-    } */
+    blockquote:last-of-type {
+        width: calc(50% - 9rem);
+    }
 }
 
 
