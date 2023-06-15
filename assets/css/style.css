@@ -205,6 +205,7 @@ ul li {
 
 ul {
     list-style: none;
+    padding-inline-start: 1rem;
 }
 
 ul li:before {
