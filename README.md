@@ -74,7 +74,7 @@ During our studio time, we will delve deeper into the functionalities and capabi
 > - [Audio playback with FAUST](AUDIOPLAYBACK.md)
 > - [Physical Modeling with FAUST](PhysicalModeling.md)
 > - [FAUST with Arduino](FAUSTARDUINO.md) 
-> - [Using sensors](USINGSENSORS.md)
+> - [Using Sensors]
 >   
 >   ## OTHER RESOURCES
 >   
