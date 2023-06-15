@@ -40,6 +40,10 @@ This project will culminate in the creation of:
 3.  A 5 minute performance of the ritual/event at Iklectik.
 4.  A well considered photograph of the sound making items, objects, or artefacts.
 
+>(...) Man is an animal suspended in webs of significance he himself has spun.
+
+Geertz, C. (1973). _The Interpretation Of Cultures_. Basic Books. (https://is.muni.cz/el/1423/jaro2018/SOC757/um/clifford-geertz-the-interpretation-of-cultures.pdf)
+
 ---
 
 > # ANNEX 
