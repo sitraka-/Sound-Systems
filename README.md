@@ -50,9 +50,9 @@ Geertz, C. (1973). _The Interpretation Of Cultures_. Basic Books. ([https://is.m
 
 ## WORLD-BUILDING
 
-To begin our exploration we will first engage in a collective work session, to kickstart our ideation process. This exercise in collective world-building will focus on examining notions of habitability and belonging, and how these shape and inform modes of living in new localities.
+To begin our exploration we will first engage in a collective work session, to kickstart our rapid ideation process. This exercise in collective world-building will focus on examining notions of habitability and belonging, and how can these shape and inform modes of living in new localities.
 
-We will explore
+To guide us through this exercise, we will focus our concerns on 4 locations: a space station in Low Earth Orbit (LEO), a Moon settlement, a Mars settlement, and a spacecraft on a 100 years journey to Alpha Centauri.
 
 ---
 
