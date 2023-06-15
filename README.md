@@ -22,27 +22,28 @@ Drawing inspiration from [Ursula K. Le Guin](https://en.wikipedia.org/wiki/Ursul
 
 ## BRIEF → AUTUMN 2023
 
+
+> (…) In the age of nth order simulacra the limited beings that we are may need to come to terms with the notion that fiction really exists and reality is unknowable as anything but, hopefully complex, fictions. Reductions of what is there to something we can narrativise. This means that the stakes are very high when you write something down but, paradoxically, this knowledge renders these stakes absurd.
+
+Holt, M. (2017, May 16). _The Terrifying Ambivalence of Theory-Fiction_. Ark Review. ([http://arkbooks.dk/the-terrifying-ambivalence-of-theory-fiction](http://arkbooks.dk/the-terrifying-ambivalence-of-theory-fiction))
+
 This project presents an opportunity to explore design as a means of imaginative expression, enabling us to question and critique our existing modes of thinking and being while fostering new possibilities. In this context, design functions as an interface for both generating knowledge and conveying information.  
   
 Our focus will be on crafting objects, instruments, and artefacts that produce sound, while taking careful consideration of how we engage with them — whether individually or collectively, through fast jerky movements or slow soft touches, whilst standing upright or laying down, at dawn or dusk, and so on. 
 
 We will contemplate the ways in which we interact with these objects, their spatial arrangements, and their aesthetic and qualitative attributes, both in their sonic characteristics and materiality. All these aspects will be examined in relation to fictional socio-cultural contexts, that we will collectively dream, imagine and define, by departing from what is real to explore other and potentially new ideological projects.
 
-> (…) In the age of nth order simulacra the limited beings that we are may need to come to terms with the notion that fiction really exists and reality is unknowable as anything but, hopefully complex, fictions. Reductions of what is there to something we can narrativise. This means that the stakes are very high when you write something down but, paradoxically, this knowledge renders these stakes absurd.
-
-Holt, M. (2017, May 16). _The Terrifying Ambivalence of Theory-Fiction_. Ark Review. ([http://arkbooks.dk/the-terrifying-ambivalence-of-theory-fiction](http://arkbooks.dk/the-terrifying-ambivalence-of-theory-fiction))
-
 ## DELIVERABLES
+
+>(...) Man is an animal suspended in webs of significance he himself has spun.
+
+Geertz, C. (1973). _The Interpretation Of Cultures_. Basic Books. ([https://is.muni.cz/el/1423/jaro2018/SOC757/um/clifford-geertz-the-interpretation-of-cultures.pdf](https://is.muni.cz/el/1423/jaro2018/SOC757/um/clifford-geertz-the-interpretation-of-cultures.pdf))
 
 This project will culminate in the creation of:
 1.  A sound archive consisting of a series of audio tracks we will all produce.
 2.  A short but "[thick](https://www.youtube.com/watch?v=avW6g31hy-c&ab_channel=Then%26Now)" description of the ritual/event, in the form of a narrative piece of writing.
 3.  A 5 minute performance of the ritual/event at Iklectik.
 4.  A well considered photograph of the sound making items, objects, or artefacts.
-
->(...) Man is an animal suspended in webs of significance he himself has spun.
-
-Geertz, C. (1973). _The Interpretation Of Cultures_. Basic Books. (https://is.muni.cz/el/1423/jaro2018/SOC757/um/clifford-geertz-the-interpretation-of-cultures.pdf)
 
 ---
 
