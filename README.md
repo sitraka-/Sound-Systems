@@ -81,7 +81,7 @@ During our studio time, we will delve deeper into the functionalities and capabi
 > - [FAUST IDE](faustide.grame.fr)
 > - [Teensy set up](https://www.pjrc.com/teensy/tutorial.html)
 >   
->   ## MISC
+>   ## MISCELLANEOUS
 >   
 >   - [mesh2faust](https://github.com/grame-cncm/faust/blob/master-dev/tools/physicalModeling/mesh2faust/README.md)
 > 
