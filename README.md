@@ -70,8 +70,20 @@ During our studio time, we will delve deeper into the functionalities and capabi
 > 
 > - [Main Syllabus](./)
 > - [Introduction to FAUST](FAUST.md)
+> - [GUI with FAUST](FAUSTGUI.md)
+> - [Audio playback with FAUST](AUDIOPLAYBACK.md)
+> - [Physical Modeling with FAUST](PhysicalModeling.md)
+> - [FAUST with Arduino](FAUSTARDUINO.md)
+> - [Using sensors](USINGSENSORS.md)
+>   
+>   ## OTHER RESOURCES
+>   
 > - [FAUST IDE](faustide.grame.fr)
 > - [Teensy set up](https://www.pjrc.com/teensy/tutorial.html)
+>   
+>   ## MISC
+>   
+>   [mesh2faust](https://github.com/grame-cncm/faust/blob/master-dev/tools/physicalModeling/mesh2faust/README.md)
 > 
 > ## OTHER REFERENCES
 > 
