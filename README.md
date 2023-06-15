@@ -34,7 +34,9 @@ Holt, M. (2017, May 16). _The Terrifying Ambivalence of Theory-Fiction_. Ark Rev
 
 ## DELIVERABLES
 
-This project will culminate in the creation of a sound archive consisting of a series of audio tracks, a performance
+This project will culminate in the creation of:
+	1 → a sound archive consisting of a series of audio tracks
+	2 →
 
 field recordings, Foley, and other, alongside short written and/or diagrammatic thick descriptions of the different worlds explored.
 
