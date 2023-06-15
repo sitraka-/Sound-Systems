@@ -50,7 +50,9 @@ Geertz, C. (1973). _The Interpretation Of Cultures_. Basic Books. ([https://is.m
 
 ## WORLD-BUILDING
 
-To begin our exploration we will first engage in a collective work session, to kickstart our ideation process. This exercise in collective world-building will focus on examining notions of habitability and belonging, and how these shape and inform modes of living in new and different localities.
+To begin our exploration we will first engage in a collective work session, to kickstart our ideation process. This exercise in collective world-building will focus on examining notions of habitability and belonging, and how these shape and inform modes of living in new localities.
+
+We will explore
 
 ---
 
