@@ -221,7 +221,7 @@ ul li:before {
 
 
 body::-webkit-scrollbar {
-    width: 10px;
+    width: 5px;
 }
 
 body::-webkit-scrollbar-thumb {
