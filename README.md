@@ -83,7 +83,7 @@ During our studio time, we will delve deeper into the functionalities and capabi
 >   
 >   ## MISCELLANEOUS
 >   
->   - [3D mesh2faust](https://github.com/grame-cncm/faust/blob/master-dev/tools/physicalModeling/mesh2faust/README.md)
+> - [3D mesh2faust](https://github.com/grame-cncm/faust/blob/master-dev/tools/physicalModeling/mesh2faust/README.md)
 > 
 > ## OTHER REFERENCES
 > 
