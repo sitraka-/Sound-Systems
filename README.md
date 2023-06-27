@@ -100,7 +100,7 @@ During our studio time, we will delve deeper into the functionalities and capabi
 > - [GUI with FAUST](FAUSTGUI.md)
 > - [Audio playback with FAUST](AUDIOPLAYBACK.md)
 > - [Physical Modeling with FAUST](PhysicalModeling.md)
-> - [Using sensors]()  
+> - [Using sensors](SENSORS.md)  
 > - [FAUST with Arduino](FAUSTARDUINO.md) 
 >   
 >   ## OTHER RESOURCES
