@@ -89,6 +89,7 @@ During our studio time, we will delve deeper into the functionalities and capabi
 | Jan. 16 | DOCUMENTATION Hand-in |
 | Jan. 25 | PERFORMANCE @ IKLECTIK
 
+
 ---
 
 > # ANNEX 
@@ -103,16 +104,16 @@ During our studio time, we will delve deeper into the functionalities and capabi
 > - [Using sensors](SENSORS.md)  
 > - [FAUST with Arduino](FAUSTARDUINO.md) 
 >   
->   ## OTHER RESOURCES
+## OTHER RESOURCES
 >   
 > - [FAUST IDE](faustide.grame.fr)
 > - [Teensy set up](https://www.pjrc.com/teensy/tutorial.html)
 >   
->   ## MISCELLANEOUS
+## MISCELLANEOUS
 >   
 > - [3D mesh2faust](https://github.com/grame-cncm/faust/blob/master-dev/tools/physicalModeling/mesh2faust/README.md)
 > 
-> ## OTHER REFERENCES
+## OTHER REFERENCES
 > 
 > - Rakotoniaina, S. & [NS-PDOS](https://www.youtube.com/@newschoolpolicyanddesignfo5504/vide) (2021),  [*Human Considerations, Speculations on Lunar Habitations*](https://www.youtube.com/watch?v=_fNXnpDgsec&t=353s&ab_channel=NewSchoolPolicyandDesignforOuterSpace). Italian Virtual Pavilion. Venice Architecture Biennale.
 > - Loughridge, D. & Patteson, T. (2013),  [*Museum of imaginary musical instruments*](http://imaginaryinstruments.org/)
