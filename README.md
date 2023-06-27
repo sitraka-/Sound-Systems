@@ -62,6 +62,33 @@ After the initial session, our focus will shift towards exploring the practical 
 
 During our studio time, we will delve deeper into the functionalities and capabilities of these platforms. As the projects begin to take shape, we will offer more targeted assistance and support. In the meantime, this repository has been compiled with valuable references, introductory materials, and relevant examples for each of these platforms. This repository serves as an excellent starting point for further exploration and experimentation.
 
+## TIMETABLE
+
+| Term.Week | AM | PM | Guest |
+| --- | ----------- | ----------- | ----------- |
+| 1.5 | Launch @ [Horniman Museum](https://www.horniman.ac.uk/explore-the-collections/musical-instrument-collection/) | Worldbuilding | Music Gallery Curators
+| 1.6 | Worldbuilding | Ritual making & writing  | [Nicholas Mortimer](http://nicholasmortimer.net/)
+| 1.7 | FAUST Intro | Teensy + Arduino | [Iklectic Art Lab](https://iklectikartlab.com/)
+| 1.8 | FAUST w/ Arduino | FAUST w/ Arduino |
+| 1.9 | __*+ WIP Review +*__ | Supervised Studio | [Joseph Popper](https://josephpopper.net/)
+| 1.10 | Supervised Studio | Supervised Studio |
+| 1.11 | Supervised Studio | __*+ DESIGN Review +*__ | 
+| Winter | Break | Break |
+| 2.1 | __*AUDIO + WRITINGS Hand-in*__ | Performance making | [Malena Arcucci](https://malenaarcucci.com/)
+| 2.2 | __*DOCUMENTATION Hand-in*__ | Performance making |
+| 2.3 | Rehearsal | Rehearsal |
+| -- | __*PERFORMANCE @ IKLECTIK*__ | __*JAN 25th 2024*__
+
+## KEY DATES
+
+| Date | Task |
+| --- | ---------- |
+| Nov. 21 | WIP Review |
+| Dec. 5 | DESIGN Review |
+| Jan. 9 | AUDIO + WRITINGS Hand-in |
+| Jan. 16 | DOCUMENTATION Hand-in |
+| Jan. 25 | PERFORMANCE @ IKLECTIK
+
 ---
 
 > # ANNEX 
