@@ -235,3 +235,25 @@ body::-webkit-scrollbar-thumb {
 body::-webkit-scrollbar-track {
     background-color: var(--secondary-color);
 }
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+tr {
+    border-bottom: solid thin;
+}
+
+td {
+    padding: 10px 15px 10px 0;
+}
+
+thead th {
+    text-align: left;
+    padding-bottom: 10px;
+}
+
+table tbody tr:last-of-type {
+    border-bottom: none;
+}
