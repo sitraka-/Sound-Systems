@@ -16,11 +16,9 @@ Taken from [FAUST's website](https://faust.grame.fr/)
 
 ## INTRODUCTION
 
-In this project, our focus will be directed towards a specific subset of FAUST's functionalities and capabilities. Specifically, we will concentrate on fundamental aspects of sound generation, including the utilisation of oscillators, basic frequency filtering, and [sample playback](FAUSTPLAYBACK.md). 
+In this project, our focus will be directed towards a specific subset of FAUST's functionalities and capabilities. Specifically, we will concentrate on fundamental aspects of sound generation, including the utilisation of oscillators, basic frequency filtering, and [sample playback](FAUSTPLAYBACK.md). We will also explore browser-based prototyping facilitated by the built-in [GUI library](FAUSTGUI.md), which offers a range of interactive components such as sliders, buttons, and more.
 
-We will also explore browser-based prototyping facilitated by the built-in [GUI library](FAUSTGUI.md), which offers a range of interactive components such as sliders, buttons, and more.
-
-Additionally, we will examine the implementation of FAUST objects on [Teensy/Arduino](FAUSTARDUINO.md), focusing on the integration of [sensors](SENSORS.md) in place of onscreen sliders and buttons.
+Additionally, we will examine the implementation of FAUST _objects_ on [Teensy/Arduino](FAUSTARDUINO.md), focusing on the integration of [sensors](SENSORS.md) in place of onscreen sliders and buttons. Although we will not extensively explore concepts of [physical modeling](PM.md) within the context of FAUST, we will provide a brief overview for those who may find it relevant.
 
 ---
 
@@ -32,9 +30,9 @@ Additionally, we will examine the implementation of FAUST objects on [Teensy/Ard
 > - [Introduction to FAUST](FAUST.md)
 > - [Audio playback with FAUST](FAUSTPLAYBACK.md)
 > - [GUI with FAUST](FAUSTGUI.md)
-> - [Physical Modeling with FAUST](PhysicalModeling.md)
-> - [Using sensors](SENSORS.md)  
 > - [FAUST with Arduino](FAUSTARDUINO.md) 
+> - [Using sensors](SENSORS.md) 
+> - [Physical Modeling with FAUST](PM.md) 
 > - [Timetable & Key dates](https://sitraka-.github.io/Sound-Systems/#timetable)
 >   
 ## OTHER RESOURCES

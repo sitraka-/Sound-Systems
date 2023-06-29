@@ -62,7 +62,7 @@ After the initial session, our focus will shift towards exploring the practical 
 
 During our studio time, we will delve deeper into the functionalities and capabilities of these platforms. As the projects begin to take shape, we will offer more targeted assistance and support. In the meantime, this repository has been compiled with valuable references, introductory materials, and relevant examples for each of these platforms. This repository serves as an excellent starting point for further exploration and experimentation.
 
-## TIMETABLE
+## TIMETABLE → 2023
 
 | Term.Week | AM | PM | Guest |
 | --- | ----------- | ----------- | ----------- |
@@ -79,7 +79,7 @@ During our studio time, we will delve deeper into the functionalities and capabi
 | 2.3 | Rehearsal | Rehearsal |
 | -- | __*PERFORMANCE @ IKLECTIK*__ | __*JAN 25th 2024*__
 
-## KEY DATES
+## KEY DATES → 2023
 
 | Date | Task |
 | --- | ---------- |
