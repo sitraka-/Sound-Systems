@@ -12,6 +12,8 @@ Music programming / Digital Signal Processing with [FAUST](https://faust.grame.f
 
 Taken from [FAUST's website](https://faust.grame.fr/)
 
+---
+
 ## INTRODUCTION
 
 In this project, our focus will be directed towards a specific subset of FAUST's functionalities and capabilities. Specifically, we will concentrate on fundamental aspects of sound generation, including the utilisation of oscillators, basic frequency filtering, and [sample playback](FAUSTPLAYBACK.md). 
