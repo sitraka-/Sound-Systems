@@ -107,6 +107,7 @@ During our studio time, we will delve deeper into the functionalities and capabi
 >   
 ## OTHER RESOURCES
 >   
+> - [FAUST Website](https://faust.grame.fr/)
 > - [FAUST IDE](faustide.grame.fr)
 > - [Teensy set up](https://www.pjrc.com/teensy/tutorial.html)
 >   
