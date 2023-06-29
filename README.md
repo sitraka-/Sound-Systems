@@ -103,6 +103,7 @@ During our studio time, we will delve deeper into the functionalities and capabi
 > - [Physical Modeling with FAUST](PhysicalModeling.md)
 > - [Using sensors](SENSORS.md)  
 > - [FAUST with Arduino](FAUSTARDUINO.md) 
+> - [Timetable & Key dates](https://sitraka-.github.io/Sound-Systems/#timetable)
 >   
 ## OTHER RESOURCES
 >   
