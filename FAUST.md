@@ -20,6 +20,10 @@ In this project, our focus will be directed towards a specific subset of FAUST's
 
 Additionally, we will examine the implementation of FAUST _objects_ on [Teensy/Arduino](FAUSTARDUINO.md), focusing on the integration of [sensors](SENSORS.md) in place of onscreen sliders and buttons. Although we will not extensively explore concepts of [physical modeling](PM.md) within the context of FAUST, we will provide a brief overview for those who may find it relevant.
 
+## GETTING STARTED
+
+As previously mentioned, FAUST is a programming language specifically designed for creating synthesizers and musical instruments. This entails the creation of text files (`.dsp`) that define programs capable of generating sounds. To facilitate this process, we will use FAUST's [web-based Integrated Development Environment (IDE)](faustide.grame.fr), a web application where we will write and develop our programs. It is recommended to use [Google Chrome](https://www.google.com/intl/en_uk/chrome/dr/download/?brand=JJTC&gclid=Cj0KCQjw1_SkBhDwARIsANbGpFt2FbyhGDrEdpHSPZ3RVFGc4UDiXLDxZ5Qj8GEtyybRqXeIHRYWnF0aAhzXEALw_wcB&gclsrc=aw.ds) as the preferred browser for running the program, as certain features may not be fully functional on other browsers. 
+
 ---
 
 > # ANNEX 
