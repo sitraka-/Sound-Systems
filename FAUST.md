@@ -33,7 +33,7 @@ Additionally, we will examine the implementation of FAUST _objects_ on [Teensy/A
 > - [FAUST with Arduino](FAUSTARDUINO.md) 
 > - [Using sensors](SENSORS.md) 
 > - [Physical Modeling with FAUST](PM.md) 
-> - [Timetable & Key dates](https://sitraka-.github.io/Sound-Systems/#timetable)
+> - [Timetable & Key dates](README.md#timetable)
 >   
 ## OTHER RESOURCES
 >   
