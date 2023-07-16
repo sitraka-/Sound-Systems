@@ -60,9 +60,9 @@ During our studio time, we will delve deeper into the functionalities and capabi
 
 ## TIMETABLE → 2023
 
-| Term.Week | AM | PM | Guest |
+| Date | AM | PM | Guest |
 | --- | ----------- | ----------- | ----------- |
-| 1.5 | Launch @ [Horniman Museum](https://www.horniman.ac.uk/explore-the-collections/musical-instrument-collection/) | Worldbuilding | Music Gallery Curators
+| Oct 2 | Launch @ [This Museum Is Not Obsolete](https://this-museum-is-not-obsolete.com/) | Independent Study | 
 | 1.6 | Worldbuilding | Ritual making & writing  | [Nicholas Mortimer](http://nicholasmortimer.net/)
 | 1.7 | FAUST Intro | Teensy + Arduino | [Iklectic Art Lab](https://iklectikartlab.com/)
 | 1.8 | FAUST w/ Arduino | FAUST w/ Arduino |
