@@ -62,7 +62,7 @@ During our studio time, we will delve deeper into the functionalities and capabi
 
 | Date | AM | PM | Guest |
 | --- | ----------- | ----------- | ----------- |
-| Oct. 2 | Brief Launch | World/Rituals building | [Nicholas Mortimer](http://nicholasmortimer.net/)
+| Oct. 31 | Brief Launch | World/Rituals building | [Nicholas Mortimer](http://nicholasmortimer.net/)
 | Nov. 7 | FAUST Intro | Teensy + Arduino | [Iklectic Art Lab](https://iklectikartlab.com/)
 | Nov. 14 | FAUST w/ Arduino | Supervised Studio | [Joseph Popper](https://josephpopper.net/)
 | Nov. 21 | __*Status Check*__ | Supervised Studio | 
