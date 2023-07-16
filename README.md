@@ -16,7 +16,7 @@ Anderson, R. et al. (2018, December 18).  *Speculative Anthropologies*. Society 
 
 The idea of space settlement has often been tied to colonialist narratives, with space being viewed as a [new frontier](https://archive.org/details/highfrontierhuma0000onei/mode/1up) to be conquered and exploited in much the same way the Europeans colonised the Americas. This narrow focus on resource extraction and economic development has often overlooked considerations of environmental sustainability and social justice ([Scharmen, 2019](https://www.youtube.com/watch?v=Uf0YAe7Lz9A&ab_channel=RedEmma%27sBookstoreCoffeehouse)). However, prioritising collaboration and community-building, rather than domination and exploitation demands a reimagination of the ways in which the idea of outer space is constructed; not only as a physical location, but rather a social and cultural construct shaped by human experiences, imaginations, and practices ([Messeri, 2016](https://www.youtube.com/watch?v=TXWHnbybg9w&ab_channel=CA2M)).
 
-Just as [Sun Ra](https://en.wikipedia.org/wiki/Sun_Ra) used music to transcend time and space, in "[Space is the place](https://youtu.be/vHLOPBx2BaE)", our Sound Systems strive to diminish the distinction between sonic experiences and music as a means of intellectual exploration.  
+Similarly to [Sun Ra](https://en.wikipedia.org/wiki/Sun_Ra)'s use of music to transcend time and space, in "[Space is the place](https://youtu.be/vHLOPBx2BaE)", our Sound Systems strive to diminish the distinction between sonic experiences and music as a means of intellectual exploration.  
   
 Our goal is to embark on voyages to distant lands and spaces, akin to intrepid explorers of uncharted territories, and convey our discoveries through sonic experiences and performances aiming to unveil fresh interpretations and shed new light on our connection with the world.  
   
@@ -62,13 +62,13 @@ During our studio time, we will delve deeper into the functionalities and capabi
 
 | Date | AM | PM | Guest |
 | --- | ----------- | ----------- | ----------- |
-| Oct. 31 | Brief Launch | World/Rituals building | [Nicholas Mortimer](http://nicholasmortimer.net/)
+| Oct. 31 | __*Brief Launch*__ | World/Rituals building | [Nicholas Mortimer](http://nicholasmortimer.net/)
 | Nov. 7 | FAUST Intro | Teensy + Arduino | [Iklectic Art Lab](https://iklectikartlab.com/)
 | Nov. 14 | FAUST w/ Arduino | Supervised Studio | [Joseph Popper](https://josephpopper.net/)
 | Nov. 21 | __*Status Check*__ | Supervised Studio | 
 | Nov. 28 | Supervised Studio | Supervised Studio |
 | Dec. 5 | __*+ DESIGN Review +*__ | __*+ DESIGN Review +*__  
-| <span class="break">WINTER</span> | <span class="break">BREAK</span> 
+| <span class="break">__*WINTER*__</span> | <span class="break">__*BREAK*__</span> 
 | Jan. 9 | __*AUDIO + WRITINGS Hand-in*__ | Performance making | [Malena Arcucci](https://malenaarcucci.com/)
 | Jan. 16 | __*DOCUMENTATION Hand-in*__ | Performance making |
 | Jan. 23 | Rehearsal | Rehearsal |
