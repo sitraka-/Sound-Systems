@@ -521,3 +521,7 @@ thead th {
 table tbody tr:last-of-type {
     border-bottom: none;
 }
+
+.break {
+    color: yellow;
+}

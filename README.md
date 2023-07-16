@@ -68,7 +68,7 @@ During our studio time, we will delve deeper into the functionalities and capabi
 | Nov. 21 | __*Status Check*__ | Supervised Studio | 
 | Nov. 28 | Supervised Studio | Supervised Studio |
 | Dec. 5 | __*+ DESIGN Review +*__ | __*+ DESIGN Review +*__  
-| Winter | Break | Break |
+| <span class="break">Winter</span> | Break | Break |
 | Jan. 9 | __*AUDIO + WRITINGS Hand-in*__ | Performance making | [Malena Arcucci](https://malenaarcucci.com/)
 | Jan. 16 | __*DOCUMENTATION Hand-in*__ | Performance making |
 | Jan. 23 | Rehearsal | Rehearsal |
