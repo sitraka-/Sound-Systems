@@ -62,24 +62,24 @@ During our studio time, we will delve deeper into the functionalities and capabi
 
 | Date | AM | PM | Guest |
 | --- | ----------- | ----------- | ----------- |
-| Oct 2 | Launch @ [This Museum Is Not Obsolete](https://this-museum-is-not-obsolete.com/) | Independent Study | 
-| 1.6 | Worldbuilding | Ritual making & writing  | [Nicholas Mortimer](http://nicholasmortimer.net/)
-| 1.7 | FAUST Intro | Teensy + Arduino | [Iklectic Art Lab](https://iklectikartlab.com/)
-| 1.8 | FAUST w/ Arduino | FAUST w/ Arduino |
-| 1.9 | __*+ WIP Review +*__ | Supervised Studio | [Joseph Popper](https://josephpopper.net/)
-| 1.10 | Supervised Studio | Supervised Studio |
-| 1.11 | Supervised Studio | __*+ DESIGN Review +*__ | 
+| Oct. 2 | Brief Launch | World/Rituals building | [Nicholas Mortimer](http://nicholasmortimer.net/)
+| Nov. 7 | FAUST Intro | Teensy + Arduino | [Iklectic Art Lab](https://iklectikartlab.com/)
+| Nov. 14 | FAUST w/ Arduino | Supervised Studio | [Joseph Popper](https://josephpopper.net/)
+| Nov. 21 | __*Status Check*__ | Supervised Studio | 
+| Nov. 28 | Supervised Studio | Supervised Studio |
+| Dec. 5 | __*+ DESIGN Review +*__ | __*+ DESIGN Review +*__  
 | Winter | Break | Break |
-| 2.1 | __*AUDIO + WRITINGS Hand-in*__ | Performance making | [Malena Arcucci](https://malenaarcucci.com/)
-| 2.2 | __*DOCUMENTATION Hand-in*__ | Performance making |
-| 2.3 | Rehearsal | Rehearsal |
-| -- | __*PERFORMANCE @ IKLECTIK*__ | __*JAN 25th 2024*__
+| Jan. 9 | __*AUDIO + WRITINGS Hand-in*__ | Performance making | [Malena Arcucci](https://malenaarcucci.com/)
+| Jan. 16 | __*DOCUMENTATION Hand-in*__ | Performance making |
+| Jan. 23 | Rehearsal | Rehearsal |
+| Jan. 25 | __*PERFORMANCE @ IKLECTIK*__ 
 
 ## KEY DATES → 2023
 
 | Date | Task |
 | --- | ---------- |
-| Nov. 21 | WIP Review |
+| Oct. 2 | Brief Launch |
+| Nov. 21 | Status Check |
 | Dec. 5 | DESIGN Review |
 | Jan. 9 | AUDIO + WRITINGS Hand-in |
 | Jan. 16 | DOCUMENTATION Hand-in |
