@@ -44,10 +44,6 @@ This project will culminate in the creation of:
 - A 5 minute performance of the ritual/event at Iklectik.
 - A well considered photograph of the sound making items, objects, or artefacts created.
 
->(...) Man is an animal suspended in webs of significance he himself has spun.
-
-Geertz, C. (1973). _The Interpretation Of Cultures_. Basic Books. ([https://is.muni.cz/el/1423/jaro2018/SOC757/um/clifford-geertz-the-interpretation-of-cultures.pdf](https://is.muni.cz/el/1423/jaro2018/SOC757/um/clifford-geertz-the-interpretation-of-cultures.pdf))
-
 ## WORLD-BUILDING
 
 To initiate our exploration we will first engage in a collective world-building session, aimed at jumpstarting our ideation process. Our primary objective will be to examine ideas of habitability and belonging and explore how these notions can shape and influence other modes of existence in unfamiliar environments.
@@ -125,5 +121,6 @@ During our studio time, we will delve deeper into the functionalities and capabi
 > - Kuh, A. (2015, January 14). _The Cultural Significance Of Space Exploration_. UK Space Agency. ([https://space.blog.gov.uk/2015/01/14/the-cultural-significance-of-space-exploration/](https://space.blog.gov.uk/2015/01/14/the-cultural-significance-of-space-exploration/))
 > - Horniman Museum's [instrument collection](https://www.horniman.ac.uk/explore-the-collections/musical-instrument-collection/)
 > - Beaudrillard, J. (1981). _Simulation And Simulacra_. Editions Galilee. ([https://archive.org/details/simulacra-and-simulation-1995-university-of-michigan-press/mode/2up](https://archive.org/details/simulacra-and-simulation-1995-university-of-michigan-press/mode/2up))
+> - Geertz, C. (1973). _The Interpretation Of Cultures_. Basic Books. ([https://is.muni.cz/el/1423/jaro2018/SOC757/um/clifford-geertz-the-interpretation-of-cultures.pdf](https://is.muni.cz/el/1423/jaro2018/SOC757/um/clifford-geertz-the-interpretation-of-cultures.pdf))
 
 
