@@ -63,7 +63,7 @@ During our studio time, we will delve deeper into the functionalities and capabi
 | Date | AM | PM | Guest |
 | --- | ----------- | ----------- | ----------- |
 | Oct. 31 | __*Brief Launch*__ | World/Rituals building | [Nicholas Mortimer](http://nicholasmortimer.net/)
-| Nov. 7 | FAUST Intro | Teensy + Arduino | [Iklectic Art Lab](https://iklectikartlab.com/)
+| Nov. 7 | FAUST Intro | Teensy + Arduino | 
 | Nov. 14 | FAUST w/ Arduino | Supervised Studio | [Joseph Popper](https://josephpopper.net/)
 | Nov. 21 | __*Status Check*__ | Supervised Studio | 
 | Nov. 28 | Supervised Studio | Supervised Studio |
@@ -72,7 +72,7 @@ During our studio time, we will delve deeper into the functionalities and capabi
 | Jan. 9 | __*AUDIO + WRITINGS Hand-in*__ | Performance making | [Malena Arcucci](https://malenaarcucci.com/)
 | Jan. 16 | __*DOCUMENTATION Hand-in*__ | Performance making |
 | Jan. 23 | Rehearsal | Rehearsal |
-| Jan. 25 | __*PERFORMANCE @ IKLECTIK*__ 
+| <span class="break">Jan. 25</span> | <span class="break">__*PERFORMANCE @ IKLECTIK*__ </span>
 
 ## KEY DATES → 2023
 
