@@ -78,7 +78,7 @@ During our studio time, we will delve deeper into the functionalities and capabi
 
 | Date | Task |
 | --- | ---------- |
-| Oct. 2 | Brief Launch |
+| Oct. 31 | Brief Launch |
 | Nov. 21 | Status Check |
 | Dec. 5 | DESIGN Review |
 | Jan. 9 | AUDIO + WRITINGS Hand-in |
