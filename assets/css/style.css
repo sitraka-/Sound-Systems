@@ -259,5 +259,9 @@ table tbody tr:last-of-type {
 }
 
 .break {
+    color: darkslategrey;
+}
+
+.hi {
     color: yellow;
 }
