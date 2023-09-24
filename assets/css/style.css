@@ -139,6 +139,14 @@ blockquote:last-of-type ul {
 
 code.language-plaintext.highlighter-rouge {
     background-color: var(--bg);
+    border-radius: 5px;
+    padding: 0 7px;
+}
+
+pre.highlight {
+    background-color: var(--bg);
+    padding: 1rem;
+    border-radius: 5px;
 }
 
 h3 {

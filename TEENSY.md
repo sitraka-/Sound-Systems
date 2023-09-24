@@ -66,7 +66,6 @@ then click `OK`
 void setup() {
   // put your setup code here, to run once:
   pinMode(13, OUTPUT);
-
 }
 
 void loop() {
@@ -76,7 +75,6 @@ void loop() {
   digitalWrite(13, LOW);
   delay(1000);
 }
-
 ```
 - Alternatively you can access the same example, by clicking on `File > Examples > 01.Basics > Blink`. This code will result in the LED built-in the board to turn on and off every second _(or 1000 milliseconds)_.
 
