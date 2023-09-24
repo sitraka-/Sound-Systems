@@ -137,6 +137,10 @@ blockquote:last-of-type ul {
     margin-top: 0;
 }
 
+code.language-plaintext.highlighter-rouge {
+    background-color: var(--bg);
+}
+
 @media only screen and (max-width: 1280px) {
     blockquote:last-of-type {
         position: relative;
