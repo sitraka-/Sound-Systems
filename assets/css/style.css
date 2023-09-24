@@ -141,6 +141,11 @@ code.language-plaintext.highlighter-rouge {
     background-color: var(--bg);
 }
 
+h3 {
+    border-top: thin dotted var(--link-color);
+    padding-top: 1rem;
+}
+
 @media only screen and (max-width: 1280px) {
     blockquote:last-of-type {
         position: relative;

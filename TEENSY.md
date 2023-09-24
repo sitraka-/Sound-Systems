@@ -37,7 +37,7 @@ As mentioned in the introduction, the Arduino IDE can be, and will be used to pr
 - Start by downloading the [Arduino IDE](https://www.arduino.cc/en/software) (Integrated Development Environment) from the official Arduino website.
 - Make sure to Choose the 2.x.x version that matches your computer's operating system (Windows, Mac, or Linux) and run the installer and/or follow the installation instructions.
 
-### Step 2: Install Teensy
+### Step 2: Add Teensy to the _Board Manager_
 
 - Launch the Arduino IDE; Teensy's installation is made through Arduino's board manager.
 - Click on `File > Preferences`. And in the `Additional boards managers URLs` field copy this link:
@@ -46,40 +46,45 @@ then click `OK`
 
 ![BoardManager](assets/images/boardmanager.png)
 
+### Step 3: Install Teensy from the _Board Manager_
+
 - Select the Board Manager icon on the left hand side, and type `teensy` in the `Filter your search...` box.
-- Click `Install`, the output tab should pop open and you should see the installing process being printed out.
+- Click `Install`, the output tab should pop up and you should see the installing process being printed out.
 
 ![teensyInstall](assets/images/teensy_lib_install.png)
 
 
-### Step 3: Connect Your Teensy Board
-- Obtain a Teensy board (Teensy 4.0 or Teensy 4.1 are popular choices for real-time audio and sensor projects).
-- Connect your Teensy board to your computer using a USB cable. Your computer should automatically recognize the Teensy board.
+### Step 4: Connect Your Teensy Board
+- Connect your Teensy board to your computer using a micro USB cable. Your computer should automatically recognise the Teensy board, and it should appear in a dropdown meny at the top of the IDE. **_Note that the Teensy board version is the Teensy 4.0_**
+- Select the Teensy 4.0 board from the dropdown menu, if it isn't automatically selected, or alternatively you can select it by clicking on `Tools > Board > Teensy > Teensy 4.0`
 
-### Step 4: Launch the Arduino IDE**
-- Open the Arduino IDE that you installed in Step 1. With Teensyduino installed, you'll have additional board options available.
+### Step 5: Write Your First Sketch
+- To test that everything is working as it should copy and paste the following code in to your arduino sketch, then save your sketch by clicking on `File > Save as`.
+```
+void setup() {
+  // put your setup code here, to run once:
+  pinMode(13, OUTPUT);
 
-**Step 5: Select Your Teensy Board**
-- In the Arduino IDE, go to "Tools" > "Board" and select your Teensy board from the list (e.g., Teensy 4.0 or Teensy 4.1).
+}
 
-**Step 6: Choose the Correct Port**
-- Under "Tools," navigate to "Port" and select the COM port associated with your Teensy board. If you're unsure, check in the "Device Manager" on Windows or the "System Information" on macOS.
+void loop() {
+  // put your main code here, to run repeatedly:
+  digitalWrite(13, HIGH);
+  delay(1000);
+  digitalWrite(13, LOW);
+  delay(1000);
+}
 
-**Step 7: Write Your First Teensy Sketch**
-- You can start with a simple example sketch. Teensy comes with a collection of examples to help you get started.
-- To find these examples, go to "File" > "Examples" > "Teensy" in the Arduino IDE. Explore and select an example that interests you.
+```
+- Alternatively you can access the same example, by clicking on `File > Examples > 01.Basics > Blink`. This code will result in the LED built-in the board to turn on and off every second _(or 1000 milliseconds)_.
 
-**Step 8: Upload Your Sketch**
+### Step 6: Upload Your Sketch
 - Click the right-pointing arrow icon (Upload) in the Arduino IDE to compile your code and upload it to your Teensy board.
 - Monitor the progress bar at the bottom of the IDE, and your Teensy board should execute your program.
 
-**Step 9: Explore Advanced Features**
-- Teensy offers advanced features for real-time audio processing, sensor integration, and more. Take advantage of the Teensy-specific libraries and hardware to create your projects.
+![teensyUpload](assets/images/uplaodSketch.png)
 
-**Step 10: Join the Teensy Community**
-- Visit the Teensy forum (https://forum.pjrc.com/) and explore the Teensyduino documentation (https://www.pjrc.com/teensy/teensyduino.html) to tap into the Teensy community's knowledge and resources.
-
-With Arduino and Teensyduino, you have a powerful combination for creating projects that involve real-time audio processing and various sensors. Enjoy exploring the world of microcontrollers and digital making!
+If all went well you should have the LED on your board blinking. 
 
 ---
 
