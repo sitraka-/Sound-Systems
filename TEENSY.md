@@ -4,11 +4,11 @@ Music programming / Digital Signal Processing with [Teensy](https://www.pjrc.com
 
 > The Teensy is a complete USB-based microcontroller development system, in a very small footprint, capable of implementing many types of [projects](https://www.pjrc.com/teensy/projects.html). All programming is done via the USB port.
 
-Of course, here's a more detailed explanation for electronic beginners at a Master's level:
+---
 
-# Introduction
+## INTRODUCTION
 
-## What's Teensy? What about Arduino?
+### What's Teensy? What about Arduino?
 
 You have probably heard of [Arduino](https://www.arduino.cc/) before; it's a popular platform in the world of embedded electronics. At its core, an Arduino is a simple, user-friendly microcontroller development board that makes it easier for both beginners and experts to create a wide range of electronic projects. The main advantage of Arduino is its accessibility and robust community support. It's based on 8-bit ATmega microcontrollers, which are easy to use and have a broad ecosystem of add-on modules called shields. Arduino employs a simplified version of the C++ programming language, and its [integrated development environment](https://www.arduino.cc/en/software) (IDE) simplifies code writing and uploading to the board.
 
@@ -20,7 +20,7 @@ Regarding hardware, both platforms offer a set of digital and analog input/outpu
 
 In summary, when choosing between Arduino and Teensy, consider your project's computational requirements and your level of expertise. Arduino excels in simpler applications and benefits from a rich ecosystem, while Teensy's 32-bit architecture is ideal for demanding, performance-critical tasks. Many electronics enthusiasts find value in both platforms, selecting the one best suited to the specific needs of their projects.
 
-## Why Teensy?
+### Why Teensy?
 
 For our purpose, Teensy microcontrollers are exceptionally well-suited for real-time audio processing and sound generation due to their powerful hardware capabilities and the availability of specialised [audio libraries](https://www.pjrc.com/teensy/td_libs_Audio.html). 
 
@@ -28,11 +28,11 @@ Their high clock speeds and [digital signal processing](https://en.wikipedia.org
 
 Teensy boards also have dedicated [digital-to-analog converters](https://en.wikipedia.org/wiki/Digital-to-analog_converter) (DACs) and [analog-to-digital converters](https://en.wikipedia.org/wiki/Analog-to-digital_converter) (ADCs) that are optimised for high-quality audio output and input. Additionally, Teensy supports a range of [audio shields](https://www.pjrc.com/store/teensy3_audio.html) and add-ons, enabling users to create custom synthesizers, effects processors, and audio applications with ease. 
 
-# Getting started
+## Getting started
 
 As mentioned in the introduction, the Arduino IDE can be used to program your Teensy board. 
 
-## Step 1: Download the Arduino IDE
+### Step 1: Download the Arduino IDE
 - Start by downloading the Arduino IDE (Integrated Development Environment) from the official Arduino website (https://www.arduino.cc/en/software).
 - Choose the version that matches your computer's operating system (Windows, Mac, or Linux) and follow the installation instructions.
 
