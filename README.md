@@ -93,7 +93,7 @@ During our studio time, we will delve deeper into the functionalities and capabi
 > ## INDEX
 > 
 > - [Main Syllabus](./)
-> - [Introduction to Teensy](Teensy.md)
+> - [Introduction to Teensy](TEENSY.md)
 > - [Audio playback with FAUST](FAUSTPLAYBACK.md)
 > - [GUI with FAUST](FAUSTGUI.md)
 > - [FAUST with Arduino](FAUSTARDUINO.md) 
