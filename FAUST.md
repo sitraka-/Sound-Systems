@@ -31,7 +31,7 @@ As previously mentioned, FAUST is a programming language specifically designed f
 > ## INDEX
 > 
 > - [Main Syllabus](./)
-> - [Introduction to FAUST](FAUST.md)
+> - [Introduction to Teensy](TEENSY.md)
 > - [Audio playback with FAUST](FAUSTPLAYBACK.md)
 > - [GUI with FAUST](FAUSTGUI.md)
 > - [FAUST with Arduino](FAUSTARDUINO.md) 
