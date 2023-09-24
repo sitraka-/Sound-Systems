@@ -1,4 +1,4 @@
-![TEENSY](assets/images/teensy.png)
+![TEENSY](assets/images/audioTeensy.png)
 
 Music programming / Digital Signal Processing with [Teensy](https://www.pjrc.com/teensy/).
 
