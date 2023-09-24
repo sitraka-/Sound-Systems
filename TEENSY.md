@@ -30,14 +30,15 @@ Teensy boards also have dedicated [digital-to-analog converters](https://en.wiki
 
 ## Getting started
 
-As mentioned in the introduction, the Arduino IDE can be used to program your Teensy board. 
+As mentioned in the introduction, the Arduino IDE can be, and will be used to program your Teensy board. 
 
-### Step 1: Download the Arduino IDE
-- Start by downloading the Arduino IDE (Integrated Development Environment) from the official Arduino website (https://www.arduino.cc/en/software).
-- Choose the version that matches your computer's operating system (Windows, Mac, or Linux) and follow the installation instructions.
+### [ ] Step 1: Download the Arduino IDE
 
-**Step 2: Install Teensyduino**
-- Teensy is a powerful microcontroller platform that works seamlessly with the Arduino IDE through the Teensyduino add-on.
+- Start by downloading the [Arduino IDE](https://www.arduino.cc/en/software) (Integrated Development Environment) from the official Arduino website.
+- Make sure to Choose the version that matches your computer's operating system (Windows, Mac, or Linux) and follow the installation instructions.
+
+### Step 2: Install Teensyduino
+
 - Download Teensyduino from the PJRC website (https://www.pjrc.com/teensy/td_download.html) and follow the installation instructions for your operating system.
 
 **Step 3: Connect Your Teensy Board**
