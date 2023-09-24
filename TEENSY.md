@@ -60,6 +60,8 @@ then click `OK`
 
 ### Step 5: Write Your First Sketch
 - To test that everything is working as it should copy and paste the following code in to your arduino sketch, then save your sketch by clicking on `File > Save as`.
+
+
 ```
 void setup() {
   // put your setup code here, to run once:
