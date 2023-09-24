@@ -69,3 +69,40 @@ As mentioned in the introduction, the Arduino IDE can be, and will be used to pr
 - Visit the Teensy forum (https://forum.pjrc.com/) and explore the Teensyduino documentation (https://www.pjrc.com/teensy/teensyduino.html) to tap into the Teensy community's knowledge and resources.
 
 With Arduino and Teensyduino, you have a powerful combination for creating projects that involve real-time audio processing and various sensors. Enjoy exploring the world of microcontrollers and digital making!
+
+---
+
+> # ANNEX 
+> 
+> ## INDEX
+> 
+> - [Main Syllabus](./)
+> - [Introduction to Teensy](TEENSY.md)
+> - [Audio playback with FAUST](FAUSTPLAYBACK.md)
+> - [GUI with FAUST](FAUSTGUI.md)
+> - [FAUST with Arduino](FAUSTARDUINO.md) 
+> - [Using sensors](SENSORS.md) 
+> - [Physical Modeling with FAUST](PM.md) 
+> - [Timetable & Key dates](README.md#timetable--2023)
+>   
+## OTHER RESOURCES
+>   
+> - [FAUST Website](https://faust.grame.fr/)
+> - [FAUST IDE](faustide.grame.fr)
+> - [Teensy set up](https://www.pjrc.com/teensy/tutorial.html)
+>   
+## MISCELLANEOUS
+>   
+> - [3D mesh2faust](https://github.com/grame-cncm/faust/blob/master-dev/tools/physicalModeling/mesh2faust/README.md)
+> 
+## OTHER REFERENCES
+> 
+> - Rakotoniaina, S. & [NS-PDOS](https://www.youtube.com/@newschoolpolicyanddesignfo5504/vide) (2021),  [*Human Considerations, Speculations on Lunar Habitations*](https://www.youtube.com/watch?v=_fNXnpDgsec&t=353s&ab_channel=NewSchoolPolicyandDesignforOuterSpace). Italian Virtual Pavilion. Venice Architecture Biennale.
+> - Loughridge, D. & Patteson, T. (2013),  [*Museum of imaginary musical instruments*](http://imaginaryinstruments.org/)
+> - Eshun, K. (1999). _More Brilliant Than The Sun: Adventures In Sonic Fiction_. Quartet Books. ([https://monoskop.org/images/b/b2/Eshun_Kodwo_More_Brilliant_Than_the_Sun_Adventures_in_Sonic_Fiction.pdf](https://monoskop.org/images/b/b2/Eshun_Kodwo_More_Brilliant_Than_the_Sun_Adventures_in_Sonic_Fiction.pdf))
+> - Anderson, R. et al. (2018, December 18), *Introduction: Speculative Anthropologies*. Society for Cultural Anthropology. ([https://culanth.org/fieldsights/introduction-speculative-anthropologies](https://culanth.org/fieldsights/introduction-speculative-anthropologies))
+> - Davison-Vecchione, D. & Seeger, S. (2021). _Ursula Le Guin’s Speculative Anthropology: Thick Description, Historicity and Science Fiction_. Theory, Culture & Society. Sage Publication. ([https://journals.sagepub.com/doi/pdf/10.1177/02632764211051780](https://journals.sagepub.com/doi/pdf/10.1177/02632764211051780))
+> - Kuh, A. (2015, January 14). _The Cultural Significance Of Space Exploration_. UK Space Agency. ([https://space.blog.gov.uk/2015/01/14/the-cultural-significance-of-space-exploration/](https://space.blog.gov.uk/2015/01/14/the-cultural-significance-of-space-exploration/))
+> - Horniman Museum's [instrument collection](https://www.horniman.ac.uk/explore-the-collections/musical-instrument-collection/)
+> - Beaudrillard, J. (1981). _Simulation And Simulacra_. Editions Galilee. ([https://archive.org/details/simulacra-and-simulation-1995-university-of-michigan-press/mode/2up](https://archive.org/details/simulacra-and-simulation-1995-university-of-michigan-press/mode/2up))
+
