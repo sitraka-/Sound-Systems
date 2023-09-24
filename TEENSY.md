@@ -1,4 +1,4 @@
-![FAUST](assets/images/teensy.png)
+![TEENSY](assets/images/teensy.png)
 
 Music programming / Digital Signal Processing with [Teensy](https://www.pjrc.com/teensy/).
 
@@ -14,7 +14,7 @@ You have probably heard of [Arduino](https://www.arduino.cc/) before; it's a pop
 
 Now, let's delve into the Teensy platform. While it might not be as well-known as Arduino, it's a powerful alternative, especially for more complex projects. Teensy, like Arduino, is a development board, but it stands out due to its use of 32-bit ARM Cortex-M series microcontrollers. This architectural difference results in significantly higher processing power and clock speeds compared to Arduino's 8-bit platform. Teensy's performance makes it suitable for real-time applications and projects demanding extensive computational capabilities.
 
-Both Arduino and Teensy share a commitment to open-source principles, allowing you to access their design files and libraries freely. Teensy is also programmed using the Arduino IDE but requires the [Teensyduino add-on](https://www.pjrc.com/teensy/td_download.html) for seamless integration.
+Both Arduino and Teensy share a commitment to open-source principles, allowing you to access their design files and libraries freely. Teensy is also programmed using the Arduino IDE and is seamlessly integrated since the release of the Arduino IDE 2.0.0.
 
 Regarding hardware, both platforms offer a set of digital and analog input/output pins, making them versatile for interfacing with various sensors, actuators, and components. They are beginner-friendly, with a plethora of online tutorials and a supportive community.
 
@@ -32,20 +32,31 @@ Teensy boards also have dedicated [digital-to-analog converters](https://en.wiki
 
 As mentioned in the introduction, the Arduino IDE can be, and will be used to program your Teensy board. 
 
-### [ ] Step 1: Download the Arduino IDE
+### Step 1: Download the Arduino IDE
 
 - Start by downloading the [Arduino IDE](https://www.arduino.cc/en/software) (Integrated Development Environment) from the official Arduino website.
-- Make sure to Choose the version that matches your computer's operating system (Windows, Mac, or Linux) and follow the installation instructions.
+- Make sure to Choose the 2.x.x version that matches your computer's operating system (Windows, Mac, or Linux) and run the installer and/or follow the installation instructions.
 
-### Step 2: Install Teensyduino
+### Step 2: Install Teensy
 
-- Download Teensyduino from the PJRC website (https://www.pjrc.com/teensy/td_download.html) and follow the installation instructions for your operating system.
+- Launch the Arduino IDE; Teensy's installation is made through Arduino's board manager.
+- Click on `File > Preferences`. And in the `Additional boards managers URLs` field copy this link:
+`https://www.pjrc.com/teensy/package_teensy_index.json`
+then click `OK`
 
-**Step 3: Connect Your Teensy Board**
+![BoardManager](assets/images/boardmanager.png)
+
+- Select the Board Manager icon on the left hand side, and type `teensy` in the `Filter your search...` box.
+- Click `Install`, the output tab should pop open and you should see the installing process being printed out.
+
+![teensyInstall](assets/images/teensy_lib_install.png)
+
+
+### Step 3: Connect Your Teensy Board
 - Obtain a Teensy board (Teensy 4.0 or Teensy 4.1 are popular choices for real-time audio and sensor projects).
 - Connect your Teensy board to your computer using a USB cable. Your computer should automatically recognize the Teensy board.
 
-**Step 4: Launch the Arduino IDE**
+### Step 4: Launch the Arduino IDE**
 - Open the Arduino IDE that you installed in Step 1. With Teensyduino installed, you'll have additional board options available.
 
 **Step 5: Select Your Teensy Board**
