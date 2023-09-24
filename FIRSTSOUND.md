@@ -2,25 +2,37 @@
 
 Music programming / Digital Signal Processing with [Teensy](https://www.pjrc.com/teensy/).
 
-> The Teensy is a complete USB-based microcontroller development system, in a very small footprint, capable of implementing many types of [projects](https://www.pjrc.com/teensy/projects.html). All programming is done via the USB port.
+> A toolkit for building streaming audio projects, featuring Polyphonic Playback, Recording, Synthesis, Analysis, Effects, Filtering, Mixing, Multiple Simultaneous Inputs & Outputs, and Flexible Internal Signal Routing.
+
+Taken from [PJRC](https://www.pjrc.com/)'s website.
 
 ---
 
 ## INTRODUCTION
 
-### What's Teensy? What about Arduino?
+The Teensy's built-in Audio library, in conjunction with compatible audio shields, offers a powerful platform for producing high-quality sound and audio processing. The need for this combination arises from the complexity of real-time audio tasks, where precise timing and processing capabilities are crucial. 
 
-You have probably heard of [Arduino](https://www.arduino.cc/) before; it's a popular platform in the world of embedded electronics. At its core, an Arduino is a simple, user-friendly microcontroller development board that makes it easier for both beginners and experts to create a wide range of electronic projects. The main advantage of Arduino is its accessibility and robust community support. It's based on 8-bit ATmega microcontrollers, which are easy to use and have a broad ecosystem of add-on modules called shields. Arduino employs a simplified version of the C++ programming language, and its [integrated development environment](https://www.arduino.cc/en/software) (IDE) simplifies code writing and uploading to the board.
+Teensy's Audio library provides a versatile set of tools for managing audio input and output, allowing users to create synthesizers, music players, digital signal processors (DSP), and sophisticated audio effects.
 
-Now, let's delve into the Teensy platform. While it might not be as well-known as Arduino, it's a powerful alternative, especially for more complex projects. Teensy, like Arduino, is a development board, but it stands out due to its use of 32-bit ARM Cortex-M series microcontrollers. This architectural difference results in significantly higher processing power and clock speeds compared to Arduino's 8-bit platform. Teensy's performance makes it suitable for real-time applications and projects demanding extensive computational capabilities.
+The key advantage is the Teensy's ability to handle these tasks with minimal latency, ensuring that audio signals are processed and delivered in real time, essential for applications like music production, interactive installations, or sound synthesis. 
 
-Both Arduino and Teensy share a commitment to open-source principles, allowing you to access their design files and libraries freely. Teensy is also programmed using the Arduino IDE and is seamlessly integrated since the release of the Arduino IDE 2.0.0.
+### What's a library?
 
-Regarding hardware, both platforms offer a set of digital and analog input/output pins, making them versatile for interfacing with various sensors, actuators, and components. They are beginner-friendly, with a plethora of online tutorials and a supportive community.
+In programming, a library refers to a collection of pre-written code modules and functions that can be used by developers to simplify their programming tasks. These libraries are typically designed to perform common operations, provide specific functionality, or interact with hardware components, saving developers time and effort. 
 
-In summary, when choosing between Arduino and Teensy, consider your project's computational requirements and your level of expertise. Arduino excels in simpler applications and benefits from a rich ecosystem, while Teensy's 32-bit architecture is ideal for demanding, performance-critical tasks. Many electronics enthusiasts find value in both platforms, selecting the one best suited to the specific needs of their projects.
+In the context of Arduino and Teensy, libraries play a crucial role in extending the capabilities of these platforms. They offer a way to easily access and use complex hardware features or perform intricate tasks without having to write all the code from scratch. For example, Teensy's libraries provide a wealth of resources, ranging from audio processing to sensor interfacing.
 
-### Why Teensy?
+### What's this Audio Library about?
+
+Teensy's Audio Library, in particular, is a specialised library designed to facilitate real-time audio processing and synthesis on Teensy microcontrollers.  
+
+This library simplifies tasks like creating audio synthesisers, music players, audio effects, and so on. In simplistic terms, a programming library like the Teensy Audio Library comprises a series of "objects". An object is essentially a self-contained unit of code that encapsulates data and functions, designed for specific purposes. These objects can be thought of as building blocks that you can use in your code to perform various tasks. For instance, in our context, objects represent different audio components or processors. Each object is pre-coded to carry out a particular audio function, whether it's generating waveforms, applying effects, or routing audio signals. By creating and configuring these objects, you can construct complex audio processing chains. 
+
+Let's take as an example the **AudioSynthWaveform** object within this framework. The **AudioSynthWaveform** object is a versatile tool for generating various audio waveforms, which are fundamental for sound synthesis. This component allows you to create waveforms like sine waves, square waves, sawtooth waves, and triangle waves. 
+
+To use it, you initialise the object by specifying the audio channel it should output to and the waveform type you want to generate. You can further configure the waveform by adjusting parameters like frequency and amplitude. Frequency determines the pitch, and amplitude controls the volume. These parameters can be modulated over time to create dynamic audio effects. Once configured, you can connect this waveform generator to other audio components using the **AudioConnection** object, allowing you to route the generated waveform to various audio effects, mixers, or outputs. 
+
+### How do I know which object's which?
 
 For our purpose, Teensy microcontrollers are exceptionally well-suited for real-time audio processing and sound generation due to their powerful hardware capabilities and the availability of specialised [audio libraries](https://www.pjrc.com/teensy/td_libs_Audio.html). 
 

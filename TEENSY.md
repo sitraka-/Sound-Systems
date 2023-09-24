@@ -4,6 +4,8 @@ Music programming / Digital Signal Processing with [Teensy](https://www.pjrc.com
 
 > The Teensy is a complete USB-based microcontroller development system, in a very small footprint, capable of implementing many types of [projects](https://www.pjrc.com/teensy/projects.html). All programming is done via the USB port.
 
+Taken from [PJRC](https://www.pjrc.com/)'s website.
+
 ---
 
 ## INTRODUCTION
@@ -42,7 +44,9 @@ As mentioned in the introduction, the Arduino IDE can be, and will be used to pr
 - Launch the Arduino IDE; Teensy's installation is made through Arduino's board manager.
 - Click on `File > Preferences`. And in the `Additional boards managers URLs` field copy this link:
 `https://www.pjrc.com/teensy/package_teensy_index.json`
-then click `OK`
+then click `OK`.
+
+**_Note: for more info please visit this [link](https://www.pjrc.com/teensy/td_download.html)_**.
 
 ![BoardManager](assets/images/boardmanager.png)
 
@@ -84,7 +88,7 @@ void loop() {
 
 ![teensyUpload](assets/images/uplaodSketch.png)
 
-### What's next?
+## NEXT
 If it all went well you should have the LED on your board blinking. Now that we are up and running let's create our [first sound](FIRSTSOUND.md).
 
 ---
