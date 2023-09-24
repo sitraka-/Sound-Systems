@@ -63,7 +63,7 @@ During our studio time, we will delve deeper into the functionalities and capabi
 | Date | AM | PM | Guest |
 | --- | ----------- | ----------- | ----------- |
 | <span class="hi">Oct. 31</span> | <span class="hi">__*Brief Launch*__</span> | World/Rituals building | [Nicholas Mortimer](http://nicholasmortimer.net/)
-| Nov. 7 | FAUST Intro | Teensy + Arduino | [Joseph Popper](https://josephpopper.net/)
+| Nov. 7 | Teensy Audio Intro | Teensy + Arduino | [Joseph Popper](https://josephpopper.net/)
 | Nov. 14 | FAUST w/ Arduino | Supervised Studio | 
 | Nov. 21 | __*Status Check*__ | Supervised Studio | 
 | Nov. 28 | Supervised Studio | Supervised Studio |
@@ -93,7 +93,7 @@ During our studio time, we will delve deeper into the functionalities and capabi
 > ## INDEX
 > 
 > - [Main Syllabus](./)
-> - [Introduction to FAUST](FAUST.md)
+> - [Introduction to Teensy](Teensy.md)
 > - [Audio playback with FAUST](FAUSTPLAYBACK.md)
 > - [GUI with FAUST](FAUSTGUI.md)
 > - [FAUST with Arduino](FAUSTARDUINO.md) 
