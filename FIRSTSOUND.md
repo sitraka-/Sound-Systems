@@ -10,11 +10,41 @@ Taken from [PJRC](https://www.pjrc.com/)'s website.
 
 ## INTRODUCTION
 
-The Teensy's built-in Audio library, in conjunction with compatible audio shields, offers a powerful platform for producing high-quality sound and audio processing. The need for this combination arises from the complexity of real-time audio tasks, where precise timing and processing capabilities are crucial. 
+The Teensy's built-in [Audio library](https://www.pjrc.com/teensy/td_libs_Audio.html), in conjunction with compatible [audio shields](https://www.pjrc.com/store/teensy3_audio.html), offers a powerful platform for producing high-quality sound and audio processing. Teensy's Audio library provides a versatile set of tools for managing audio input and output, allowing users to create synthesisers, music players, digital signal processors (DSP), and sophisticated audio effects. The key advantage is the Teensy's ability to handle these tasks with minimal latency, ensuring that audio signals are processed and delivered in real time.
 
-Teensy's Audio library provides a versatile set of tools for managing audio input and output, allowing users to create synthesizers, music players, digital signal processors (DSP), and sophisticated audio effects.
+In this section, we will acquaint you with some fundamental programming concepts, but first we will guide you through the practical application of the Audio Shield.
 
-The key advantage is the Teensy's ability to handle these tasks with minimal latency, ensuring that audio signals are processed and delivered in real time, essential for applications like music production, interactive installations, or sound synthesis. 
+## Teensy Audio Shield
+
+The Audio Shield is a versatile audio processing add-on board designed to enhance the capabilities of Teensy development boards. 
+
+| Front — Rev D2 (for Teensy 4.x series) | Back — Rev D2 (for teensy 4.x series)  |
+| --- | ---- |
+|![audioShieldFront](assets/images/teensy4b_audio_front.jpg)|![audioShieldBack](assets/images/teensy4b_audio_back.jpg) |
+
+### Features
+The Teensy Audio Shield is a feature-rich audio processing add-on board
+
+* **Audio Outputs:** The shield includes a 1/8-inch (3.5mm) stereo audio jack. This headphone output is equipped with a built-in amplifier for driving headphones directly, providing a convenient way to listen to audio without the need for an external amplifier. It also includes soldering pads for stereo line-level output, labelled `LINE OUT`, which can be connected to an external audio amplifier, or other devices with line-level inputs like mixers or audio interfaces.
+
+* **Audio Inputs:** While the shield doesn't have onboard audio input jacks, it provides dedicated pads for soldering external audio input connections. It allows you to add a microphone, through the `MIC` input, and has 2 line-level inputs, `LINE IN` for line-level input signals. This offers flexibility for various audio input sources based on your project's requirements.
+
+* **Audio Codec Chip:** At the heart of the Audio Shield is the SGTL5000 audio codec chip. This chip, manufactured by NXP Semiconductors, is known for its high-quality audio performance. It features a 24-bit stereo DAC (Digital-to-Analog Converter) and a 24-bit stereo ADC (Analog-to-Digital Converter), offering excellent audio fidelity for both input and output.
+
+* **Digital Signal Processor (DSP):** One of the standout features of the Teensy Audio Shield is its built-in DSP. This allows real-time audio effects processing, making it suitable for audio synthesis, filtering, equalisation, and various other audio manipulation tasks.
+
+* **SD Card Slot:** For audio recording and playback, the shield incorporates an SD card slot. This feature lets you store and retrieve audio data from an SD card, making it suitable for sound file storage and retrieval in applications like music players or voice recorders.
+
+### Board Compatibility
+The Teensy Audio Shield is compatible with specific Teensy board models, and the choice of compatibility depends on the revision of the Teensy Audio Shield. It's essential to ensure that the shield aligns with your Teensy board to work seamlessly. Below are the compatibility details for various Teensy Audio Shield revisions:
+
+* **Teensy Audio Shield Rev A and Rev B:** These earlier revisions of the Teensy Audio Shield were primarily designed for use with Teensy 3.x series boards, such as Teensy 3.0, 3.1, and 3.2.
+
+* **Teensy Audio Shield Rev C and Rev D:** Rev C's are optimised for use with Teensy 3.x series boards, including Teensy 3.2. While Rev D's, are meant to be used with Teensy 4.x series boards.
+
+* **Teensy Audio Shield Rev D2:** We will be using this revision of the Audio Shield, which is primarily designed for use with Teensy 4.x series boards, including Teensy 4.0, 4.1, and 4.2. It may not be fully compatible with Teensy 3.x series boards due to differences in pinout and voltage levels.
+
+### Connecting the Audio Shield to the Teensy
 
 ### What's a library?
 
