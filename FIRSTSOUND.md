@@ -14,7 +14,7 @@ The Teensy's built-in [Audio library](https://www.pjrc.com/teensy/td_libs_Audio.
 
 In this section, we will acquaint you with some fundamental programming concepts, but first we will guide you through the practical application of the Audio Shield.
 
-## Teensy Audio Shield
+## TEENSY AUDIO SHIELD
 
 The Audio Shield is a versatile audio processing add-on board designed to enhance the capabilities of Teensy development boards. 
 
@@ -45,6 +45,8 @@ The Teensy Audio Shield is compatible with specific Teensy board models, and the
 * **Teensy Audio Shield Rev D2:** We will be using this revision of the Audio Shield, which is primarily designed for use with Teensy 4.x series boards, including Teensy 4.0, 4.1, and 4.2. It may not be fully compatible with Teensy 3.x series boards due to differences in pinout and voltage levels.
 
 ### Connecting the Audio Shield to the Teensy
+
+## TEENSY AUDIO LIBRARY
 
 ### What's a library?
 
