@@ -128,7 +128,7 @@ void loop() {
 
 ![teensyUpload](assets/images/uplaodSketch.png)
 
-### What's next?
+### WHAT'S NEXT?
 If it all went well you should have the LED on your board blinking. Now that we are up and running let's create our [first sound](FIRSTSOUND.md).
 
 ---
@@ -139,7 +139,7 @@ If it all went well you should have the LED on your board blinking. Now that we 
 > 
 > - [Main Syllabus](./)
 > - [Introduction to Teensy](TEENSY.md)
-> - [Introduction to Audio on Teensy](FIRSTSOUND.md)
+> - [Audio on Teensy](FIRSTSOUND.md)
 > - [Audio playback with FAUST](FAUSTPLAYBACK.md)
 > - [GUI with FAUST](FAUSTGUI.md)
 > - [FAUST with Arduino](FAUSTARDUINO.md) 
