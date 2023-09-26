@@ -87,7 +87,7 @@ During our studio time, we will delve deeper into the functionalities and capabi
 
 ## <a href="TEENSY.md"> WHAT'S NEXT?</a>
 
-Get started with [Teensy](TEENSY.md) and the [audio shield](FIRSTSOUND.md)
+Get started with [Teensy](TEENSY.md) and the [audio shield](FIRSTSOUND.md).
 
 ---
 

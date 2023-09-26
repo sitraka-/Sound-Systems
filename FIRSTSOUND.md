@@ -44,7 +44,15 @@ The Teensy Audio Shield is compatible with specific Teensy board models, and the
 
 * **Teensy Audio Shield Rev D2:** We will be using this revision of the Audio Shield, which is primarily designed for use with Teensy 4.x series boards, including Teensy 4.0, 4.1, and 4.2. It may not be fully compatible with Teensy 3.x series boards due to differences in pinout and voltage levels.
 
+**_For more information on the Audio Shield and Teensy in general please refer to PRJC's [website](https://www.pjrc.com/store/teensy3_audio.html)._**
+
 ### Connecting the Audio Shield to the Teensy
+
+We will be using stackable headers to connect our Teensy board to our audio shield. It's worth mentioning that the headers on your boards may arrive pre-soldered, but occasionally, they may be supplied as kits, requiring the manual soldering of pin headers onto each board.
+
+The order of placement, whether the Audio Shield is on the top or bottom, is not crucial. What you should be attentive to is the orientation of the boards. Typically, you'll find that the micro USB socket is on the same side as the Teensy's audio jack, with both boards oriented so that their fronts face upward.
+
+![stackedBoards](assets/images/stacked_boards.jpg)
 
 ## TEENSY AUDIO LIBRARY
 
