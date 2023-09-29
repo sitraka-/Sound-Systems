@@ -85,7 +85,7 @@ During our studio time, we will delve deeper into the functionalities and capabi
 | Jan. 16 | DOCUMENTATION Hand-in |
 | Feb. 1 | PERFORMANCE @ IKLECTIK
 
-## <a href="TEENSY.md"> WHAT'S NEXT?</a>
+## [WHAT'S NEXT?](TEENSY.md)
 
 Get started with [Teensy](TEENSY.md) and the [audio shield](FIRSTSOUND.md).
 

@@ -50,17 +50,21 @@ The Teensy Audio Shield is compatible with specific Teensy board models, and the
 
 We will be using stackable headers to connect our Teensy board to our audio shield. It's worth mentioning that the headers on your boards may arrive pre-soldered, but occasionally, they may be supplied as kits, requiring the manual soldering of pin headers onto each board.
 
-The order of placement, whether the Audio Shield is on the top or bottom, is not crucial. What you should be attentive to is the orientation of the boards. Typically, you'll find that the micro USB socket is on the same side as the Teensy's audio jack, with both boards oriented so that their fronts face upward.
+The order of placement, whether the Audio Shield is on the top or bottom, is not crucial. What you should be attentive to is the orientation of the boards. Typically, you'll find that the micro USB socket is on the same side as the Teensy's audio jack, with both boards oriented so that their fronts are facing upward.
 
 ![stackedBoards](assets/images/stacked_boards.jpg)
 
 ## TEENSY AUDIO LIBRARY
 
+This library operates through the [Audio System Design Tool](https://www.pjrc.com/teensy/gui/index.html), a user-friendly graphical user interface (GUI) accessible in your web browser. Within this interface, you can effortlessly incorporate, create instances of, and establish connections between various objects, simplifying the process of building and configuring your desired components. Before immersing ourselves in this tool, let's take a moment to explore a couple of programming concepts associated with the notion of libraries.
+
 ### What's a library?
 
-In programming, a library refers to a collection of pre-written code modules and functions that can be used by developers to simplify their programming tasks. These libraries are typically designed to perform common operations, provide specific functionality, or interact with hardware components, saving developers time and effort. 
+In programming, a library refers to a collection of pre-written code modules and functions that can be used by developers to simplify their programming tasks. These libraries are typically designed to perform common operations, provide specific functionality, or interact with hardware components.
 
-In the context of Arduino and Teensy, libraries play a crucial role in extending the capabilities of these platforms. They offer a way to easily access and use complex hardware features or perform intricate tasks without having to write all the code from scratch. For example, Teensy's libraries provide a wealth of resources, ranging from audio processing to sensor interfacing.
+In the context of Arduino and Teensy, libraries play a crucial role in extending the capabilities of these platforms. They offer a way to easily access and use complex hardware features or perform intricate tasks without having to write all the code from scratch. For example, Teensy's library provide a wealth of resources, ranging from audio processing to sensor interfacing.
+
+
 
 ### What's this Audio Library about?
 
