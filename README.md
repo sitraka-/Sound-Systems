@@ -83,7 +83,7 @@ During our studio time, we will delve deeper into the functionalities and capabi
 | Dec. 5 | DESIGN Review |
 | Jan. 9 | AUDIO + WRITINGS Hand-in |
 | Jan. 16 | DOCUMENTATION Hand-in |
-| Jan. 25 | PERFORMANCE @ IKLECTIK
+| Feb. 1 | PERFORMANCE @ IKLECTIK
 
 ## <a href="TEENSY.md"> WHAT'S NEXT?</a>
 
