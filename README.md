@@ -1,5 +1,5 @@
 ---
-title: main Syllabus
+title: main
 custom-head: head-default.html
 ---
 
