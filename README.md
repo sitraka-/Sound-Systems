@@ -1,3 +1,6 @@
+---
+title: main Syllabus
+---
 
 ![Sound Systems logo](assets/images/soundSysPicnic_g_al.png)
 
