@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-    <title>reveal.js</title>
+    {% seo %}
 
     <link rel="stylesheet" href="assets/dist/reset.css">
     <link rel="stylesheet" href="assets/dist/reveal.css">
@@ -34,7 +34,11 @@
             hash: true,
 
             // Learn about plugins: https://revealjs.com/plugins/
-            plugins: [RevealMarkdown, RevealHighlight, RevealNotes]
+            plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
+            markdown: {
+                separator: '---',              // Slide separator
+                separatorVertical: '----',    // Vertical slide separator
+            }
         });
     </script>
 </body>
