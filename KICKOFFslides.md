@@ -1,6 +1,3 @@
----
-title: something
----
 ![titleImage](assets/images/soundSysPicnic_g_al.png)
 
 Notes: Examples notes
