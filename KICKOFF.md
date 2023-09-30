@@ -1,5 +1,5 @@
 ---
 title: kick off
-custom-head: head-default.html
+custom_head: head-default.html
 ---
 Hello world
