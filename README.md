@@ -1,5 +1,6 @@
 ---
 title: main Syllabus
+custom-head: head-default.html
 ---
 
 ![Sound Systems logo](assets/images/soundSysPicnic_g_al.png)
