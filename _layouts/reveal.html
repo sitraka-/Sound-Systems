@@ -1,40 +1,42 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: " en-US" }}">
+<!doctype html>
+<html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-    {% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    {% include head-reveal.html %}
+    <title>reveal.js</title>
+
+    <link rel="stylesheet" href="assets/css/reset.css">
+    <link rel="stylesheet" href="assets/css/reveal.css">
+    <link rel="stylesheet" href="assets/css/theme/black.css">
+
+    <!-- Theme used for syntax highlighted code -->
+    <link rel="stylesheet" href="assets/css/plugin/highlight/monokai.css">
 </head>
 
 <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-        {% if site.title and site.title != page.title %}
-        <h1><a href="{{ " /" | absolute_url }}">{{ site.title }}</a></h1>
-        {% endif %}
-        <div class="reveal">
-            <div class="slides">
-                {{ content }}
-            </div>
+    <div class="reveal">
+        <div class="slides">
+            {{ content }}
         </div>
-        <script type="module" src="/Sound-Systems/assets/js/reveal.js"></script>
-        <script>
-            Reveal.initialize();
-        </script>
-
-        {% if site.github.private != true and site.github.license %}
-        <div class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
-            This site is open source. {% github_edit_link "Improve this page" %}.
-        </div>
-        {% endif %}
     </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js"
-        integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
+
+    <script src="assets/css/reveal.js"></script>
+    <script src="assets/css/plugin/notes/notes.js"></script>
+    <script src="assets/css/plugin/markdown/markdown.js"></script>
+    <script src="assets/css/plugin/highlight/highlight.js"></script>
+    <script>
+        // More info about initialization & config:
+        // - https://revealjs.com/initialization/
+        // - https://revealjs.com/config/
+        Reveal.initialize({
+            hash: true,
+
+            // Learn about plugins: https://revealjs.com/plugins/
+            plugins: [RevealMarkdown, RevealHighlight, RevealNotes]
+        });
+    </script>
 </body>
 
 </html>
