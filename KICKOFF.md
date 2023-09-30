@@ -16,3 +16,8 @@ More content for your second slide.
 
 # Slide 3
 Another slide with content.
+
+----
+
+# Slide 4
+I guess this is vertical
