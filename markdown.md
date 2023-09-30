@@ -1,41 +1,43 @@
-# Markdown Demo
+# Title
+### Subheading
 
+Notes: Examples notes
 
+---
 
-## External 1.1
+## Point 1 
 
-Content 1.1
+> Important quote here 
 
-Note: This will only appear in the speaker notes window.
+------
 
+## Point 1 -> Subpoint A
 
-## External 1.2
+* Subpoint
+* Subpoint
 
-Content 1.2
+Notes: Remmeber to say something funny here...
 
+------
 
+## Point 1 -> Subpoint B
 
-## External 2
+Hello point 1, subpoint b
 
-Content 2.1
+---
 
+## Point 2
 
+These bullets appear one at a time
 
-## External 3.1
+* Fragment a <!-- .element: class="fragment" data-fragment-index="1" -->
+* Fragment b <!-- .element: class="fragment" data-fragment-index="2" -->
 
-Content 3.1
+---
 
+<!-- .slide: data-background="#81ceff" -->
+## Point 3
 
-## External 3.2
+* This slide is a different color!
 
-Content 3.2
-
-
-## External 3.3 (Image)
-
-![External Image](https://s3.amazonaws.com/static.slid.es/logo/v2/slides-symbol-512x512.png)
-
-
-## External 3.4 (Math)
-
-`\[ J(\theta_0,\theta_1) = \sum_{i=0} \]`
+------
