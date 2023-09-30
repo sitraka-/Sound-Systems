@@ -21,7 +21,7 @@ Anderson, R. et al. (2018, December 18). Speculative Anthropologies. Society for
 Notes: Remmeber to say something funny here...
 
 ---
-<!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/0fKBhvDjuy0?si=CZ6ekXglnuMQD5ug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+<!-- .element: data-iframe="https://www.youtube.com/embed/0fKBhvDjuy0?si=CZ6ekXglnuMQD5ug" -->
 ## Point 1 -> Subpoint B
 
 Hello point 1, subpoint b
