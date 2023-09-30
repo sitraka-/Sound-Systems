@@ -4,20 +4,20 @@ layout: reveal
 custom_head: head-default.html
 ---
 
-# Slide 1
+## Slide 1
 Some content for your first slide.
 
 ---
 
-# Slide 2
+## Slide 2
 More content for your second slide.
 
 ---
 
-# Slide 3
+## Slide 3
 Another slide with content.
 
 ----
 
-# Slide 4
+## Slide 4
 I guess this is vertical
