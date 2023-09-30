@@ -1,5 +1,4 @@
-# Title
-### Subheading
+![titleImage](assets/images/soundSysPicnic_g_al.png)
 
 Notes: Examples notes
 
@@ -7,11 +6,11 @@ Notes: Examples notes
 
 ## Point 1 
 
-> Important quote here 
+> (Designing) at the intersection of speculative fiction and anthropology, we find a sense of epistemological humility about the kind of worlds we could or should inhabit. Yet epistemological humility should not be confused with futility: possibilities and potentialities still matter. We do not know what we are capable of, and yet that need not keep us from the pursuit of what ifs. Through the imaginative interpellations of speculative fiction, (we) gravitate toward new localities and means of presence: ecological, technological, Afro-futuristic, (African-futuristic, Chicana-futuristic, and so on). Facing the imminent prospect of both disaster and discovery, they call us to resist despair and to craft tangible ways of shaping and repairing the worlds we still hope for.
 
-![External Image](https://s3.amazonaws.com/static.slid.es/logo/v2/slides-symbol-512x512.png)
+Anderson, R. et al. (2018, December 18). Speculative Anthropologies. Society for Cultural Anthropology.
 
-------
+---
 
 <!-- .element: data-background-image="assets/images/soundSysPicnic_g_al.png" -->
 ## Point 1 -> Subpoint A
@@ -21,7 +20,7 @@ Notes: Examples notes
 
 Notes: Remmeber to say something funny here...
 
-------
+---
 
 ## Point 1 -> Subpoint B
 
