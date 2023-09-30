@@ -17,8 +17,8 @@
 <body>
     <div class="reveal">
         <div class="slides">
-            <section data-markdown="{{ page.title }}slides.md" data-separator="^\n---\n$" data-vertical="^\n------\n$"
-                data-notes="^Notes:" data-charset="iso-8859-15">
+            <section data-markdown="{{ page.title }}slides.md" data-background-image="assets/images/AC76-0492.1.jpeg"
+                data-separator="^\n---\n$" data-vertical="^\n------\n$" data-notes="^Notes:" data-charset="iso-8859-15">
             </section>
         </div>
     </div>
@@ -33,7 +33,8 @@
         // - https://revealjs.com/config/
         Reveal.initialize({
             hash: true,
-
+            progress: true,
+            center, true,
             // Learn about plugins: https://revealjs.com/plugins/
             plugins: [RevealMarkdown, RevealHighlight, RevealNotes],
         });

@@ -13,6 +13,7 @@ Notes: Examples notes
 
 ------
 
+<!-- .element: data-background-image="assets/images/soundSysPicnic_g_al.png" -->
 ## Point 1 -> Subpoint A
 
 * Subpoint
