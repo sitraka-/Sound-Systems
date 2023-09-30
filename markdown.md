@@ -1,8 +1,6 @@
----
-title: KICKOFF
-layout: reveal
-custom_head: head-default.html
----
+# Markdown Demo
+
+
 
 ## External 1.1
 
