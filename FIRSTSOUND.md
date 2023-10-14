@@ -118,7 +118,6 @@ AudioConnection          patchCord1(waveform1, 0, i2s1, 0);
 AudioConnection          patchCord2(waveform1, 0, i2s1, 1);
 AudioControlSGTL5000     sgtl5000_1;     //xy=393,281
 // GUItool: end automatically generated code
-
 ```
 Initially, we encounter the segment derived from our Teensy export. The `#include` statements reference the libraries used in our sketch. These libraries are essentially collections of code that simplify programming and grant us access to specific functions. Subsequently, we observe a direct translation of our graphical representation into lines of code. For example, the line `AudioSynthWaveform       waveform1;      //xy=158,215` declares an object of type **AudioSynthWaveform** named _waveform1_. The comment `//xy=158,215` denotes the object's location on our canvas within the graphical interface of the audio tool. The **AudioConnection** objects represent the connections established by clicking and dragging our mouse from the _waveform1_ output to the input of our audio output _i2s1_.
 
@@ -147,7 +146,7 @@ Similarly, the lines associated with `waveform1` are intended to establish the d
 Finally, the absence of code in the `loop` section of our sketch is due to the nature of our drone creation. Since we are solely generating a continuous sound and not currently engaging with our sound engine, there's no need for any additional instructions within this segment.
 
 ## [WHAT'S NEXT?](CONTROL.md)
-In the next chapter we will see how we can [control the frequency](CONTROL.md) of our waveform as well as filtering its sound.
+In the following section, we'll explore how to manage the [frequency control](CONTROL.md) of our waveform, along with objects for filtering its sound.
 
 ---
 
