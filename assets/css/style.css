@@ -152,6 +152,8 @@ pre.highlight {
 h3 {
     border-top: thin dotted var(--link-color);
     padding-top: 1rem;
+    font-family: var(--display-font);
+    color: var(--link-color);
 }
 
 @media only screen and (max-width: 1280px) {

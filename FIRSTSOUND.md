@@ -10,7 +10,7 @@ Taken from [PJRC](https://www.pjrc.com/)'s website.
 
 ## INTRODUCTION
 
-The Teensy's built-in [Audio library](https://www.pjrc.com/teensy/td_libs_Audio.html), in conjunction with compatible [audio shields](https://www.pjrc.com/store/teensy3_audio.html), offers a powerful platform for producing high-quality sound and audio processing. Teensy's Audio library provides a versatile set of tools for managing audio input and output, allowing users to create synthesisers, music players, digital signal processors (DSP), and sophisticated audio effects. The key advantage is the Teensy's ability to handle these tasks with minimal latency, ensuring that audio signals are processed and delivered in real time.
+The Teensy's built-in [Audio library](https://www.pjrc.com/teensy/td_libs_Audio.html), in conjunction with compatible [audio shields](https://www.pjrc.com/store/teensy3_audio.html), offers a powerful platform for producing high-quality sound and audio processing. Teensy's Audio library provides a versatile set of tools for managing audio input and output, allowing users to create synthesisers, music players, and sophisticated audio effects. The key advantage is the Teensy's ability to handle these tasks with minimal latency, ensuring that audio signals are processed and delivered in real time.
 
 In this section, we will acquaint you with some fundamental programming concepts, but first we will guide you through the practical application of the Audio Shield.
 
@@ -64,84 +64,90 @@ In programming, a library refers to a collection of pre-written code modules and
 
 In the context of Arduino and Teensy, libraries play a crucial role in extending the capabilities of these platforms. They offer a way to easily access and use complex hardware features or perform intricate tasks without having to write all the code from scratch. For example, Teensy's library provide a wealth of resources, ranging from audio processing to sensor interfacing.
 
-
-
 ### What's this Audio Library about?
 
-Teensy's Audio Library, in particular, is a specialised library designed to facilitate real-time audio processing and synthesis on Teensy microcontrollers.  
+Teensy's Audio Library is a specialised library designed to facilitate real-time audio processing and synthesis on Teensy microcontrollers.  
 
-This library simplifies tasks like creating audio synthesisers, music players, audio effects, and so on. In simplistic terms, a programming library like the Teensy Audio Library comprises a series of "objects". An object is essentially a self-contained unit of code that encapsulates data and functions, designed for specific purposes. These objects can be thought of as building blocks that you can use in your code to perform various tasks. For instance, in our context, objects represent different audio components or processors. Each object is pre-coded to carry out a particular audio function, whether it's generating waveforms, applying effects, or routing audio signals. By creating and configuring these objects, you can construct complex audio processing chains. 
+In simplistic terms, the Teensy Audio Library comprises a series of "objects" representing different audio components or processors. An object is essentially a self-contained unit of code that encapsulates data and functions, designed for specific purposes. These objects can be thought of as building __blocks__ that you can use in your code to perform various tasks. Each block is pre-coded to carry out a particular audio function, whether it's generating waveforms, applying effects, or routing audio signals. By creating and configuring these objects, you can construct complex audio processing chains. 
 
-Let's take as an example the **AudioSynthWaveform** object within this framework. The **AudioSynthWaveform** object is a versatile tool for generating various audio waveforms, which are fundamental for sound synthesis. This component allows you to create waveforms like sine waves, square waves, sawtooth waves, and triangle waves. 
+### [Teensy's Audio Design System Tool](https://www.pjrc.com/teensy/gui/index.html)
 
-To use it, you initialise the object by specifying the audio channel it should output to and the waveform type you want to generate. You can further configure the waveform by adjusting parameters like frequency and amplitude. Frequency determines the pitch, and amplitude controls the volume. These parameters can be modulated over time to create dynamic audio effects. Once configured, you can connect this waveform generator to other audio components using the **AudioConnection** object, allowing you to route the generated waveform to various audio effects, mixers, or outputs. 
+Having gained a brief understanding of libraries and objects, we are now prepared to delve into the intricacies of this [audio tool](https://www.pjrc.com/teensy/gui/index.html) and construct our initial basic system: a continuous and sustained musical note, commonly known as a drone.
 
-### How do I know which object's which?
+![audioTool](assets/images/audioTool.png)
 
-For our purpose, Teensy microcontrollers are exceptionally well-suited for real-time audio processing and sound generation due to their powerful hardware capabilities and the availability of specialised [audio libraries](https://www.pjrc.com/teensy/td_libs_Audio.html). 
+The interface is structured into three distinct columns or sections. On the left-hand side, you'll find a comprehensive collection of building blocks and objects at your disposal. These elements are thoughtfully categorised based on their module type and the specific functions they serve, encompassing inputs, outputs, effects, filters, controls, and more. On the right-hand side, you'll discover a wealth of information pertaining to the selected object. This includes a concise overview of its functions, details on the programming methods available for modifying the object's parameters and behaviours in our code, and practical usage examples with relevant files that can be found in this [github repository](https://github.com/PaulStoffregen/Audio/tree/master/examples).
+ In the centre, the canvas, is our workspace where you can effortlessly drag and drop these building blocks to assemble and configure your audio system.
 
-Their high clock speeds and [digital signal processing](https://en.wikipedia.org/wiki/Digital_signal_processing) (DSP) capabilities make them capable of handling complex audio algorithms in real time, providing low-latency audio processing. 
+We will start with the **AudioSynthWaveform** object. As a default, this object is readily available within our workspace and is labeled as _waveform1_. Here, _waveform1_ serves as the object's unique identifier, which we will employ in our code to reference it. If needed, we can easily rename this object by performing a double-click on it. 
 
-Teensy boards also have dedicated [digital-to-analog converters](https://en.wikipedia.org/wiki/Digital-to-analog_converter) (DACs) and [analog-to-digital converters](https://en.wikipedia.org/wiki/Analog-to-digital_converter) (ADCs) that are optimised for high-quality audio output and input. Additionally, Teensy supports a range of [audio shields](https://www.pjrc.com/store/teensy3_audio.html) and add-ons, enabling users to create custom synthesizers, effects processors, and audio applications with ease. 
+The **AudioSynthWaveform** object is a versatile tool for generating various audio waveforms, which are fundamental for sound synthesis. As mentioned in the info tab, this component allows you to create waveforms like sine waves, square waves, sawtooth waves, triangle waves, and so on. We can also see that this object has a single audio connection _Out 0_.
 
-## Getting started
+_(Note: if you are not familiar with soundwaves and waveforms you can learn more about these on [Teachmeaudio.com](https://www.teachmeaudio.com/recording/sound-reproduction/sound-waves))_
 
-As mentioned in the introduction, the Arduino IDE can be, and will be used to program your Teensy board. 
+However, on its own, this particular object isn't capable of producing sound. We will require the addition of the **sgtl5000** object, located within the _control_ section. As previously mentioned in the [features section](#features), this component represents the chip on the audio shield responsible for converting our digital signals into audible sound. In our current context, the incorporation of this object is imperative for the sound generation of all systems constructed in this manner. Please take note that this object lacks any audio connections. This object solely informs our system that the output signal will be directed to this specific hardware.
 
-### Step 1: Download the Arduino IDE
+![sgt5000](assets/images/sgt5000.png)
 
-- Start by downloading the [Arduino IDE](https://www.arduino.cc/en/software) (Integrated Development Environment) from the official Arduino website.
-- Make sure to Choose the 2.x.x version that matches your computer's operating system (Windows, Mac, or Linux) and run the installer and/or follow the installation instructions.
+With our DAC hardware configured, we now require a tangible audio output to stream the output of our _waveform1_. To fulfill this requirement, we will use the **AudioOutputI2S** object. This object accepts inputs for both the left and right channels. To establish a connection between our waveform object and this output, simply click and drag a connection between them. Given that our waveform has a single output, we will route it to both inputs of the audio output object.
 
-### Step 2: Add Teensy to the _Board Manager_
+![i2s](assets/images/i2s.png)
 
-- Launch the Arduino IDE; Teensy's installation is made through Arduino's board manager.
-- Click on `File > Preferences`. And in the `Additional boards managers URLs` field copy this link:
-`https://www.pjrc.com/teensy/package_teensy_index.json`
-then click `OK`
+### Export to Arduino
 
-![BoardManager](assets/images/boardmanager.png)
+Upon completing our system, we can export it to the Arduino IDE environment by selecting the _Export_ button located at the top of the window. This action will convert it into a code snippet that must be copied and pasted into a new sketch.
 
-### Step 3: Install Teensy from the _Board Manager_
+![export2arduino](assets/images/exportTeensy.png)
 
-- Select the Board Manager icon on the left hand side, and type `teensy` in the `Filter your search...` box.
-- Click `Install`, the output tab should pop up and you should see the installing process being printed out.
+Once in the Arduino IDE, we will need to add a few more line of code to get our drone up and running:
 
-![teensyInstall](assets/images/teensy_lib_install.png)
+![dronewave](assets/images/ardwave.png)
 
+Let's analyze the code provided above. 
+```
+#include <Audio.h>
+#include <Wire.h>
+#include <SPI.h>
+#include <SD.h>
+#include <SerialFlash.h>
 
-### Step 4: Connect Your Teensy Board
-- Connect your Teensy board to your computer using a micro USB cable. Your computer should automatically recognise the Teensy board, and it should appear in a dropdown meny at the top of the IDE. **_Note that the Teensy board version is the Teensy 4.0_**
-- Select the Teensy 4.0 board from the dropdown menu, if it isn't automatically selected, or alternatively you can select it by clicking on `Tools > Board > Teensy > Teensy 4.0`
+// GUItool: begin automatically generated code
+AudioSynthWaveform       waveform1;      //xy=158,215
+AudioOutputI2S           i2s1;           //xy=382,208
+AudioConnection          patchCord1(waveform1, 0, i2s1, 0);
+AudioConnection          patchCord2(waveform1, 0, i2s1, 1);
+AudioControlSGTL5000     sgtl5000_1;     //xy=393,281
+// GUItool: end automatically generated code
 
-### Step 5: Write Your First Sketch
-- To test that everything is working as it should copy and paste the following code in to your arduino sketch, then save your sketch by clicking on `File > Save as`.
-
+```
+Initially, we encounter the segment derived from our Teensy export. The `#include` statements reference the libraries used in our sketch. These libraries are essentially collections of code that simplify programming and grant us access to specific functions. Subsequently, we observe a direct translation of our graphical representation into lines of code. For example, the line `AudioSynthWaveform       waveform1;      //xy=158,215` declares an object of type **AudioSynthWaveform** named _waveform1_. The comment `//xy=158,215` denotes the object's location on our canvas within the graphical interface of the audio tool. The **AudioConnection** objects represent the connections established by clicking and dragging our mouse from the _waveform1_ output to the input of our audio output _i2s1_.
 
 ```
 void setup() {
   // put your setup code here, to run once:
-  pinMode(13, OUTPUT);
+  AudioMemory(10);
+  // set up the hardware
+  sgtl5000_1.enable();
+  sgtl5000_1.volume(0.8);
+
+  // set up our waveform object
+  waveform1.frequency(440);
+  waveform1.amplitude(1.0);
+  waveform1.begin(WAVEFORM_SAWTOOTH);
 }
 
 void loop() {
   // put your main code here, to run repeatedly:
-  digitalWrite(13, HIGH);
-  delay(1000);
-  digitalWrite(13, LOW);
-  delay(1000);
 }
 ```
-- Alternatively you can access the same example, by clicking on `File > Examples > 01.Basics > Blink`. This code will result in the LED built-in the board to turn on and off every second _(or 1000 milliseconds)_.
+In our sketch's setup section, the initial directive `AudioMemory(10)` is crucial as audio connections rely on allocated memory. In this case, the "amount" of memory allocated is set to 10, which can serve as the default value in various examples. The line `sgtl5000_1.enable()` is used to establish a connection with the hardware, followed by `sgtl5000_1.volume(0.8)`, which configures the default volume level. It's worth noting that these details can be found within the user interface of the Audio Design System Tool. Additionally, 0.8 represents a significantly high volume, so it's advisable to exercise caution, particularly when using headphones. It's recommended to avoid wearing headphones during the initial sketch upload to prevent potential discomfort.
 
-### Step 6: Upload Your Sketch
-- Click the right-pointing arrow icon (Upload) in the Arduino IDE to compile your code and upload it to your Teensy board.
-- Monitor the progress bar at the bottom of the IDE, and your Teensy board should execute your program.
+Similarly, the lines associated with `waveform1` are intended to establish the default frequency, amplitude, and waveform type for our usage. In this context, the frequency is denoted in Hertz, with 440Hz corresponding to the A4 musical note.
 
-![teensyUpload](assets/images/uplaodSketch.png)
+Finally, the absence of code in the `loop` section of our sketch is due to the nature of our drone creation. Since we are solely generating a continuous sound and not currently engaging with our sound engine, there's no need for any additional instructions within this segment.
 
-### WHAT'S NEXT?
-If it all went well you should have the LED on your board blinking. Now that we are up and running let's create our [first sound](FIRSTSOUND.md).
+## [WHAT'S NEXT?](CONTROL.md)
+In the next chapter we will see how we can [control the frequency](CONTROL.md) of our waveform as well as filtering its sound.
 
 ---
 
