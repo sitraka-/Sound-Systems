@@ -86,7 +86,7 @@ void loop() {
 
 ![teensyUpload](assets/images/uplaodSketch.png)
 
-### [WHAT'S NEXT?](FIRSTSOUND.md)
+## [WHAT'S NEXT?](FIRSTSOUND.md)
 If it all went well you should have the LED on your board blinking. Now that we are up and running let's create our [first sound](FIRSTSOUND.md).
 
 ---
