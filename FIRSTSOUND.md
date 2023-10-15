@@ -145,6 +145,10 @@ Similarly, the lines associated with `waveform1` are intended to establish the d
 
 Finally, the absence of code in the `loop` section of our sketch is due to the nature of our drone creation. Since we are solely generating a continuous sound and not currently engaging with our sound engine, there's no need for any additional instructions within this segment.
 
+---
+
+Now all that remains is to upload our program to the Teensy board. Once more, if you are using headphones, avoid wearing them until you are certain that the volume of your drone sound will not cause any discomfort.
+
 ## [WHAT'S NEXT?](CONTROL.md)
 In the following section, we'll explore how to manage the [frequency control](CONTROL.md) of our waveform, along with objects for filtering its sound.
 
