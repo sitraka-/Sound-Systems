@@ -42,9 +42,9 @@ A breadboard is a fundamental prototyping tool used for building and testing cir
 
 ![breadboard](assets/images/Breadboard-Pinout.png)
 
-The diagram above illustrates the interconnection of the holes on your breadboard. Observe that the _power rails_ are horizontally linked, whereas the other holes are organized in short vertical rows of 5 connected holes each.
+The diagram above illustrates the interconnection of the holes on your breadboard. Observe that the _power rails_ and _ground rail_ are horizontally linked, whereas the other holes are organized in short vertical rows of 5 connected holes each.
 
-The term "power rails" is attributed to these specific rails due to their common usage in facilitating the connection of power and ground components on the breadboard.
+The term "power/ground rails" is attributed to these specific rails due to their common usage in facilitating the connection of power and ground components on the breadboard.
 
 **Connecting our potentiometer:** 
 
