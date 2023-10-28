@@ -449,7 +449,7 @@ The second technical tutorial is a comprehensive playlist where a music enthusia
 >   
 ## TECHNICAL REFERENCES
 >    
-> - [More indo on setting up your Teensy](https://www.pjrc.com/teensy/tutorial.html)
+> - [More info on setting up your Teensy](https://www.pjrc.com/teensy/tutorial.html)
 > - [Exploring the Audio Shield and Audio Library](https://youtu.be/wqt55OAabVs?si=5qlnqAItstBC24Dg)
 > - [Building a Teensy Synth](https://youtube.com/playlist?list=PL4_gPbvyebyHi4VRZEOG9RKOYq5Hre3a1&si=4na8WX0SNsq3U0XX)
 >   
