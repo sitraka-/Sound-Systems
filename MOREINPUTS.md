@@ -94,7 +94,9 @@ In electronic, _debouncing_ refers to the process of ensuring the stable and con
 To illustrate the use of this library, we will employ our push button to toggle the built-in LED, ensuring that pressing the button once will turn the LED on, while pressing it again will turn it off, and so forth.
 
 Once the _Bounce2_ library installed, copy and pate the following code:
-```// debouncing library
+
+```
+// debouncing library
 #include <Bounce2.h>
 
 int bounce_pin = 14;
@@ -125,6 +127,7 @@ void loop() {
   }
 }
 ```
+
 Similar to what we observed with the code extracted from the Teensy Audio System Design Tool, we need to include the _Bounce2 library_ in our code using `#include <Bounce2.h>`. Subsequently, we encounter the statement `int bounce_pin = 14;`. In programming, the term `int` represents "integer," which signifies whole numbers without fractional or decimal parts, distinct from the `float` data type mentioned earlier. This line declares a variable named `bounce_pin` that will store the value of the digital pin we are using as an input.
 
 Next, we encounter the line `led_state = LOW;`, which initializes another variable responsible for tracking the LED's state and will be modified when the button is pressed. With this line, the variable is initially set to `LOW`. As mentioned before, the _Bounce2 library_ allows the usage of programming "objects." The statement `Bounce pushButton = Bounce();` creates an instance of the `Bounce` object and names it `pushButton`, similar to how we named our `AudioSynthWaveform` object `waveform1`. However, in this instance, we need to use the `Bounce()` function to declare it.
@@ -164,7 +167,8 @@ _**if the state of the push button has changed, and if the push button's current
 
 The `noteOn()` function signals the beginning of the envelope triggering process, allowing it to progress through its DHADS stages. However, as long as the button remains pressed, the note will be sustained. Only when the button is released does the `noteOff()` function activate, triggering the _release_ stage of the envelope.
 
-```// debouncing library
+```
+// debouncing library
 #include <Bounce2.h>
 #include <Audio.h>
 #include <Wire.h>
@@ -235,6 +239,7 @@ void loop() {
   }
 }
 ```
+
 Once this code is uploaded, you should have a note playing that is activated by the button press.
 
 ### Playing WAV files from an SD card
@@ -303,6 +308,7 @@ void setup() {
   pinMode(14, INPUT);
 }
 ```
+
 Before proceeding with the loop, we create an additional function to help manage the behaviour while the _WAV_ file is being streamed to the audio output. The `playFile()` function takes a `filename` as its only argument. Within this function, the `playSdWav1.play()` function is called on our object. While the `playSdWav1.isPlaying()` condition holds true, we can use our analog input `A2` to dynamically adjust the volume. 
 
 ```
