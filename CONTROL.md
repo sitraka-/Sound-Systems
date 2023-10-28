@@ -145,31 +145,32 @@ In the following segment, we will look at using [push buttons, light and sound a
 
 ---
 
-> # ANNEX 
+> # APPENDIX 
 > 
 > ## INDEX
 > 
 > - [Main Syllabus](./)
-> - [Introduction to Teensy](TEENSY.md)
-> - [Audio on Teensy](FIRSTSOUND.md)
-> - [Audio playback with FAUST](FAUSTPLAYBACK.md)
-> - [GUI with FAUST](FAUSTGUI.md)
-> - [FAUST with Arduino](FAUSTARDUINO.md) 
-> - [Using sensors](SENSORS.md) 
-> - [Physical Modeling with FAUST](PM.md) 
+> - [An Intro to Teensy](TEENSY.md)
+> - [An Intro to Audio on Teensy](FIRSTSOUND.md)
+> - [Frequency Control](CONTROL.md)
+> - [More Inputs](MOREINPUTS.md)
 > - [Timetable & Key dates](README.md#timetable--2023)
 >   
-## OTHER RESOURCES
->   
-> - [FAUST Website](https://faust.grame.fr/)
-> - [FAUST IDE](faustide.grame.fr)
-> - [Teensy set up](https://www.pjrc.com/teensy/tutorial.html)
+## TECHNICAL REFERENCES
+>    
+> - [More indo on setting up your Teensy](https://www.pjrc.com/teensy/tutorial.html)
+> - [Exploring the Audio Shield and Audio Library](https://youtu.be/wqt55OAabVs?si=5qlnqAItstBC24Dg)
+> - [Building a Teensy Synth](https://youtube.com/playlist?list=PL4_gPbvyebyHi4VRZEOG9RKOYq5Hre3a1&si=4na8WX0SNsq3U0XX)
 >   
 ## MISCELLANEOUS
 >   
+> - [FAUST Website](https://faust.grame.fr/)
+> - [FAUST IDE](faustide.grame.fr)
+> - [FAUST with Arduino](FAUSTARDUINO.md)
+> - [Physical Modeling with FAUST](PM.md) 
 > - [3D mesh2faust](https://github.com/grame-cncm/faust/blob/master-dev/tools/physicalModeling/mesh2faust/README.md)
 > 
-## OTHER REFERENCES
+## THEORETICAL REFERENCES
 > 
 > - Rakotoniaina, S. & [NS-PDOS](https://www.youtube.com/@newschoolpolicyanddesignfo5504/vide) (2021),  [*Human Considerations, Speculations on Lunar Habitations*](https://www.youtube.com/watch?v=_fNXnpDgsec&t=353s&ab_channel=NewSchoolPolicyandDesignforOuterSpace). Italian Virtual Pavilion. Venice Architecture Biennale.
 > - Loughridge, D. & Patteson, T. (2013),  [*Museum of imaginary musical instruments*](http://imaginaryinstruments.org/)
@@ -179,4 +180,5 @@ In the following segment, we will look at using [push buttons, light and sound a
 > - Kuh, A. (2015, January 14). _The Cultural Significance Of Space Exploration_. UK Space Agency. ([https://space.blog.gov.uk/2015/01/14/the-cultural-significance-of-space-exploration/](https://space.blog.gov.uk/2015/01/14/the-cultural-significance-of-space-exploration/))
 > - Horniman Museum's [instrument collection](https://www.horniman.ac.uk/explore-the-collections/musical-instrument-collection/)
 > - Beaudrillard, J. (1981). _Simulation And Simulacra_. Editions Galilee. ([https://archive.org/details/simulacra-and-simulation-1995-university-of-michigan-press/mode/2up](https://archive.org/details/simulacra-and-simulation-1995-university-of-michigan-press/mode/2up))
+
 
