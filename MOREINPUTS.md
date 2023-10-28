@@ -63,7 +63,8 @@ void setup() {
 ```
 In our `setup()` function, akin to our previous _Blink_ example, we use the `pinMode()` method to designate the functionality of the digital pins. Unlike analog pins that are invariably used as inputs, digital pins can function as either INPUT` or `OUTPUT`. Accordingly, we configure digital pin 14 as an input since we are acquiring the push button's state through it, and pin 13 as an output as it controls the built-in LED we aim to toggle.
 
-```void loop() {
+```
+void loop() {
   // put your main code here, to run repeatedly:
   if(digitalRead(14) == HIGH){
     digitalWrite(13, HIGH);
@@ -326,6 +327,7 @@ void playFile(const char *filename)
   }
 }
 ```
+
 Finally, in the `loop()`, the code checks whether the button has been pressed to initiate the playback of the file we have stored on the SD card.
 
 ```
@@ -340,6 +342,7 @@ void loop() {
   }
 }
 ```
+
 Here's the complete sketch for your convenience:
 
 ```
