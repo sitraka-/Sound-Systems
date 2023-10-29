@@ -4,11 +4,11 @@ layout: reveal
 custom_head: head-default.html
 ---
 <!-- "#0056FF" -->
-<section>
+<section data-background-gradient="linear-gradient(to bottom, #0056FF, #466187)" data-state=header1>
+<style>.header1 header:after { content: "\\'\\'≠.\\ x M/A/I/D x IKLECTIK"; }</style>
     <img src="assets/images/soundSysPicnic.png" />
 </section>
 <section data-background-gradient="linear-gradient(to bottom, #0056FF, #466187)" data-state=header1>
-    <style>.header1 header:after { content: "VVFA x M/A/I/D x IKLECTIK"; }</style>
     <blockquote>
         The details are not the details, they make the product, just as details make the architecture — the gauge of the wire, the selection of the wood, the finish of the castings — the connections, the connections, the connections.
     </blockquote>
