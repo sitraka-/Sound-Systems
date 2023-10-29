@@ -94,6 +94,7 @@ Get started with [Teensy](TEENSY.md) and the [audio shield](FIRSTSOUND.md).
 > 
 > ## INDEX
 > 
+> - [Kick off Slides](KICKOFF.md)
 > - [Main Syllabus](./)
 > - [An Intro to Teensy](TEENSY.md)
 > - [An Intro to Audio on Teensy](FIRSTSOUND.md)

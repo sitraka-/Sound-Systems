@@ -95,6 +95,7 @@ If it all went well you should have the LED on your board blinking. Now that we 
 > 
 > ## INDEX
 > 
+> - [Kick off Slides](KICKOFF.md)
 > - [Main Syllabus](./)
 > - [An Intro to Teensy](TEENSY.md)
 > - [An Intro to Audio on Teensy](FIRSTSOUND.md)

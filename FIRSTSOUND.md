@@ -158,6 +158,7 @@ In the following section, we'll explore how to manage the [frequency control](CO
 > 
 > ## INDEX
 > 
+> - [Kick off Slides](KICKOFF.md)
 > - [Main Syllabus](./)
 > - [An Intro to Teensy](TEENSY.md)
 > - [An Intro to Audio on Teensy](FIRSTSOUND.md)

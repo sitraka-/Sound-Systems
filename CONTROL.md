@@ -149,6 +149,7 @@ In the following segment, we will look at using [push buttons, light and sound a
 > 
 > ## INDEX
 > 
+> - [Kick off Slides](KICKOFF.md)
 > - [Main Syllabus](./)
 > - [An Intro to Teensy](TEENSY.md)
 > - [An Intro to Audio on Teensy](FIRSTSOUND.md)

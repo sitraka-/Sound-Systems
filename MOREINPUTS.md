@@ -449,6 +449,7 @@ The second technical tutorial is a comprehensive playlist where a music enthusia
 > 
 > ## INDEX
 > 
+> - [Kick off Slides](KICKOFF.md)
 > - [Main Syllabus](./)
 > - [An Intro to Teensy](TEENSY.md)
 > - [An Intro to Audio on Teensy](FIRSTSOUND.md)
