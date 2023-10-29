@@ -5,7 +5,7 @@
  */
 @import url(./fonts/source-sans-pro/source-sans-pro.css);
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,500;0,700;1,500&family=IBM+Plex+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Vesper+Libre:wght@400;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Rubik+Wet+Paint&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Beastly&family=Rubik+Wet+Paint&display=swap');
 
 
 #_date {
@@ -67,12 +67,19 @@ section.has-light-background h6 {
   --r-selection-color: #fff;
   --quote-font: 'Vesper Libre', serif;
   --rub-font: 'Rubik Wet Paint';
+  --rub-b-font: 'Rubik Beastly';
 }
 
 .rub {
   font-family: var(--rub-font);
   font-size: 4rem;
   color: beige;
+}
+
+.rubB {
+  font-family: var(--rub-b-font);
+  font-size: 4rem;
+  color: var(--r-heading-color);
 }
 
 .reveal-viewport {

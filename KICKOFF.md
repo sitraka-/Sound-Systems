@@ -17,15 +17,19 @@ custom_head: head-default.html
     </aside>
 </section>
 <section data-background-image="assets/images/Sun-Ra-06.jpg" data-background-opacity="0.3" data-state=sun>
-<style>.sun header:after { content: "Sun Ra, Space Is The Place, 1974"; }</style>
+<style>.sun header:after { content: "Sun Ra & Coney J., Space Is The Place, 1974"; }</style>
     <h3>Speculative Ethnography</h3>
     <p>Design as a medium to imagine new Ideological Projects</p>
     <aside class="notes">
     </aside>
 </section>
-<section data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="0.3" data-state=kesh>
-    <style>.kesh header:after { content: "Le Guin U. & Barton T., Music and Poetry of the Kesh, 1984"; }</style>
-    <img src="assets/images/Le-Guin2.jpg" />
+<section data-background-image="assets/images/spaceplace.jpg" data-background-opacity="0.3" data-state=sun>
+<span class="rubB" style="color:#5cb17a;">AFROFUTURISM</span>
+</section>
+<section data-background-image="assets/images/gclintonMothership.jpg" data-background-opacity="0.3" data-state=clint>
+<style>.sun header:after { content: "George Clinton, Mothership Connection, 1976"; }</style>
+    <h3>Speculative Ethnography</h3>
+    <p>Design as a medium to imagine new Ideological Projects</p>
     <aside class="notes">
     </aside>
 </section>
@@ -72,8 +76,14 @@ custom_head: head-default.html
 </section>
 <section data-background-color="beige" data-state=vvfa>
     <blockquote>
-       <span class="rub" style="color:#5cb17a:">REVERSE<br>ARCHAEOLOGY</span>
+       <span class="rub" style="color:#5cb17a;">REVERSE<br>ARCHAEOLOGY</span>
     </blockquote>
+    <aside class="notes">
+    </aside>
+</section>
+<section data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="0.3" data-state=kesh>
+    <style>.kesh header:after { content: "Le Guin U. & Barton T., Music and Poetry of the Kesh, 1984"; }</style>
+    <img src="assets/images/Le-Guin2.jpg" />
     <aside class="notes">
     </aside>
 </section>
