@@ -5,7 +5,7 @@ custom_head: head-default.html
 ---
 
 <section>
-    <img src="assets/images/cc1.png" />
+    <img src="assets/images/soundSysPicnic_g_al.png" />
 </section>
 <section data-background-color="#0056FF" data-state=header1>
     <style>.header1 header:after { content: "Charles Eames"; }</style>

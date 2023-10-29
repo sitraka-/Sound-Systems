@@ -7,6 +7,21 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,500;0,700;1,500&family=IBM+Plex+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Vesper+Libre:wght@400;700&display=swap');
 
 
+#_date {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 500;
+  font-size: 1.5rem;
+  color: var(--r-link-color);
+  font-family: var(--r-heading-font);
+  font-weight: var(--r-heading-font-weight);
+  line-height: var(--r-heading-line-height);
+  letter-spacing: var(--r-heading-letter-spacing);
+  text-transform: uppercase;
+  padding: 1rem;
+}
+
 section.has-light-background,
 section.has-light-background h1,
 section.has-light-background h2,
@@ -16,6 +31,8 @@ section.has-light-background h5,
 section.has-light-background h6 {
   color: #222;
 }
+
+
 
 /*********************************************
  * GLOBAL STYLES
@@ -81,6 +98,21 @@ section.has-light-background h6 {
 /*********************************************
  * HEADERS
  *********************************************/
+header {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: 500;
+  font-size: 1.5rem;
+  color: var(--r-link-color);
+  font-family: var(--r-heading-font);
+  font-weight: var(--r-heading-font-weight);
+  line-height: var(--r-heading-line-height);
+  letter-spacing: var(--r-heading-letter-spacing);
+  text-transform: uppercase;
+  padding: 1rem;
+}
+
 .reveal h1,
 .reveal h2,
 .reveal h3,
