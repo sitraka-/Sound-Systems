@@ -5,7 +5,7 @@ custom_head: head-default.html
 ---
 <!-- "#0056FF" -->
 <section>
-    <img src="assets/images/soundSysPicnic_g_al.png" />
+    <img src="assets/images/soundSysPicnic.png" />
 </section>
 <section data-background-gradient="linear-gradient(to bottom, #0056FF, #466187)" data-state=header1>
     <style>.header1 header:after { content: "VVFA x M/A/I/D x IKLECTIK"; }</style>
