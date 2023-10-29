@@ -161,7 +161,7 @@ header {
   font-family: 'Vesper Libre';
   /* color: white; */
   text-transform: uppercase;
-
+  color: var(--r-heading-color);
   /* font-weight: bold;*/
 }
 
