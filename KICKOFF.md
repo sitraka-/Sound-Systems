@@ -16,8 +16,9 @@ custom_head: head-default.html
     <aside class="notes">
     </aside>
 </section>
-<section data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="0.3" data-state=header1>
-    <h3>Design on the outskirt of Space</h3>
+<section data-background-image="assets/images/Sun-Ra-06.jpg" data-background-opacity="0.3" data-state=header1>
+    <h3>Speculative Ethnography</h3>
+    <h5>Design as medium to think creatively about the future</h5>
     <aside class="notes">
     </aside>
 </section>
