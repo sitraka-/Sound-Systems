@@ -16,22 +16,18 @@ custom_head: head-default.html
     <aside class="notes">
     </aside>
 </section>
-<section data-background-image="assets/images/Sun-Ra-06.jpg" data-background-opacity="0.3" data-state=sun>
+<section data-background-image="assets/images/Sun-Ra-06.jpg" data-background-opacity="0.5" data-state=sun>
 <style>.sun header:after { content: "Sun Ra & Coney J., Space Is The Place, 1974"; }</style>
     <h3>Speculative Ethnography</h3>
     <p>Design as a medium to imagine new Ideological Projects</p>
     <aside class="notes">
     </aside>
 </section>
-<section data-background-image="assets/images/spaceplace.jpg" data-background-opacity="0.3" data-state=sun>
+<section data-background-image="assets/images/spaceplace.jpg" data-background-opacity="0.5" data-state=sun>
 <span class="rubB" style="color:#5cb17a;">AFROFUTURISM</span>
 </section>
-<section data-background-image="assets/images/gclintonMothership.jpg" data-background-opacity="0.3" data-state=clint>
-<style>.sun header:after { content: "George Clinton, Mothership Connection, 1976"; }</style>
-    <h3>Speculative Ethnography</h3>
-    <p>Design as a medium to imagine new Ideological Projects</p>
-    <aside class="notes">
-    </aside>
+<section data-background-image="assets/images/gclintonMothership.jpg" data-background-opacity="0.7" data-state=clint>
+<style>.clint header:after { content: "George Clinton, Mothership Connection, 1976"; }</style>
 </section>
 <section data-background-image="assets/images/spaceElk.jpg" data-background-opacity="0.5" data-state=bez>
 <style>.bez header:after { content: "Bezos J., Blue Origin, 2019"; }</style>
@@ -86,4 +82,73 @@ custom_head: head-default.html
     <img src="assets/images/Le-Guin2.jpg" />
     <aside class="notes">
     </aside>
+</section>
+<section data-background-image="assets/images/golden-1.webp" data-background-opacity="0.3" data-state=gold>
+    <style>.gold header:after { content: "Voyager Golden Record, 1977"; }</style>
+    <img src="assets/images/Le-Guin2.jpg" />
+    <aside class="notes">
+    </aside>
+</section>
+<section data-background-image="assets/images/IKLECTIK_2.jpg" data-background-opacity="0.5" data-state=ik>
+<style>.ik header:after { content: "IKLECTIK ART LAB, 2014 — ..."; }</style>
+<span class="rubB" style="color:#5cb17a;">AFROFUTURISM</span>
+</section>
+<section data-state=header11 class="deli">
+<style>.header11 header:after { content: "Deliverables"; }</style>
+    <p style="text-align:left;width: 70%;margin: 0 auto;"><span style="color:green;">✓</span> A sound archive consisting of a series of audio tracks informed by our rituals and objects.</p>
+    <p class="fragment"><span style="color:green;">✓</span> A short but “thick” description of the ritual/event, in the form of a narrative piece of writing (~300 words).</p>
+    <p class="fragment"><span style="color:green;">✓</span> A well considered photograph of the sound making items, objects, or artefacts created.</p>
+    <p class="fragment"><span style="color:green;">✓</span> A 5 minute performance of the ritual/event at Iklectik.</p>
+</section>
+<section data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="0.3" data-state=header10>
+    <style>.header10 header:after { content: "Schedule"; }</style>
+    <table style="font-size:1.5rem;">
+        <tr>
+            <th>Date</th>
+            <th>Task</th>
+            <th>EoD Delivery</th>
+        </tr>
+        <tr>
+            <td>Oct. 31</td>
+            <td>Brief Launch</td>
+            <td>Initial World Building</td>
+        </tr>
+        <tr>
+            <td style="background-color: #5cb17a; color: white; font-weight:bold;">Nov. 7</td>
+            <td>Teensy Electronic</td>
+            <td style="font-weight: bold; background-color: #5cb17a; color: white;">4PM Joseph Popper Talk</td>
+        </tr>
+        <tr>
+            <td>Nov. 21</td>
+            <td>Status Check</td>
+            <td>Working prototype</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;background-color: #5cb17a; color: white;">Dec. 5</td>
+            <td style="font-weight: bold; background-color: #5cb17a; color: white;">Design Review</td>
+            <td>Artefact Done</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;background-color: #5cb17a; color: white;">Jan. 9</td>
+            <td style="font-weight: bold;background-color: #5cb17a; color: white;">Hand In's Audio/Writings</td>
+            <td style="font-weight: bold;background-color: #5cb17a; color: white;">Performance w/ Malena Arcucci</td>
+        </tr>
+        <tr>
+            <td >Jan. 16</td>
+            <td>Documentation</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;background-color: #5cb17a; color: white;">Feb. 1</td>
+            <td style="font-weight: bold;background-color: #5cb17a; color: white;">PERFORMANCE @ IKLECTIK</td>
+            <td></td>
+        </tr>
+    </table>
+</section>
+<section data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="0.3" data-state=header12 >
+<style>.header12 header:after { content: "Links"; }</style>
+    <h1>Good Luck!!</h1>
+    <blockquote style="text-align:left;">
+        <a style="color:white;" href="https://sitraka-.github.io/Sound-Systems/">https://sitraka-.github.io/Sound-Systems/</a><br>
+    </blockquote>
 </section>
