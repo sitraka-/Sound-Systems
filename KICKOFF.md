@@ -10,7 +10,7 @@ custom_head: head-default.html
 </section>
 <section data-background-color="#5cb17a" data-state=header1>
     <blockquote>
-       (Designing) at the intersection of speculative fiction and anthropology, we find a sense of epistemological humility about the kind of worlds we could or should inhabit.
+       <span style="font-style:italic;">Designing</span> at the intersection of speculative fiction and anthropology, we find a sense of <span style="font-style:italic;">epistemological humility</span> about the kind of worlds we could or should inhabit.
     </blockquote>
     <aside class="notes">
         Design does not exist in isolation, it isn't about a singular action. 📝
