@@ -42,7 +42,8 @@ section.has-light-background h6 {
   --r-background-color: #0d0f12;
   --r-main-font: 'IBM Plex Sans', sans-serif;
   --r-main-font-size: 42px;
-  --r-main-color: #a9b5c2;
+  /* --r-main-color: #a9b5c2; */
+  --r-main-color: #6ecd90;
   --r-block-margin: 20px;
   --r-heading-margin: 0 0 20px 0;
   --r-heading-font: 'IBM Plex Mono', monospace;
