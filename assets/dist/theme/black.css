@@ -158,6 +158,11 @@ header {
 .reveal p {
   margin: var(--r-block-margin) 0;
   line-height: 1.3;
+  font-family: 'Vesper Libre';
+  /* color: white; */
+  text-transform: uppercase;
+
+  /* font-weight: bold;*/
 }
 
 /* Remove trailing margins after titles */
