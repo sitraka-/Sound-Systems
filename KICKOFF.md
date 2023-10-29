@@ -83,24 +83,21 @@ custom_head: head-default.html
     <aside class="notes">
     </aside>
 </section>
-<section data-background-image="assets/images/golden-1.webp" data-background-opacity="0.3" data-state=gold>
+<section data-background-image="assets/images/golden-1.webp" data-background-opacity="0.7" data-state=gold>
     <style>.gold header:after { content: "Voyager Golden Record, 1977"; }</style>
-    <img src="assets/images/Le-Guin2.jpg" />
-    <aside class="notes">
-    </aside>
 </section>
 <section data-background-image="assets/images/IKLECTIK_2.jpg" data-background-opacity="0.5" data-state=ik>
 <style>.ik header:after { content: "IKLECTIK ART LAB, 2014 — ..."; }</style>
-<span class="rubB" style="color:#5cb17a;">AFROFUTURISM</span>
+<span class="rubB" style="color:#5cb17a;">PERFORMANCE</span>
 </section>
 <section data-state=header11 class="deli">
 <style>.header11 header:after { content: "Deliverables"; }</style>
-    <p style="text-align:left;width: 70%;margin: 0 auto;"><span style="color:green;">✓</span> A sound archive consisting of a series of audio tracks informed by our rituals and objects.</p>
-    <p class="fragment"><span style="color:green;">✓</span> A short but “thick” description of the ritual/event, in the form of a narrative piece of writing (~300 words).</p>
-    <p class="fragment"><span style="color:green;">✓</span> A well considered photograph of the sound making items, objects, or artefacts created.</p>
-    <p class="fragment"><span style="color:green;">✓</span> A 5 minute performance of the ritual/event at Iklectik.</p>
+    <p style="text-align:left; font-size:2rem;"><span style="color:green;">✓</span> A sound archive consisting of a series of audio tracks informed by our rituals and objects.</p>
+    <p class="fragment" style="text-align:left; font-size:2rem;"><span style="color:green;">✓</span> A short but “thick” description of the ritual/event, in the form of a narrative piece of writing (~300 words).</p>
+    <p class="fragment" style="text-align:left; font-size:2rem;"><span style="color:green;">✓</span> A well considered photograph of the sound making items, objects, or artefacts created.</p>
+    <p class="fragment" style="text-align:left; font-size:2rem;"><span style="color:green;">✓</span> A 5 minute performance of the ritual/event at Iklectik.</p>
 </section>
-<section data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="0.3" data-state=header10>
+<section data-state=header10>
     <style>.header10 header:after { content: "Schedule"; }</style>
     <table style="font-size:1.5rem;">
         <tr>
