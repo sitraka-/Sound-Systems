@@ -3,9 +3,9 @@ title: KICKOFF
 layout: reveal
 custom_head: head-default.html
 ---
-<!-- "#0056FF" -->
-<section data-background-gradient="linear-gradient(to bottom, #171c20d4, #466187)" data-state=header1>
-<style>.header1 header:after { content: "\\'\\'≠.\\ x M/A/I/D x IKLECTIK"; }</style>
+<!-- "#0056FF" data-background-gradient="linear-gradient(to bottom, #171c20d4, #466187)" -->
+<section data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="0.5" data-state=header1>
+<style>.header1 header:after { content: "\\'\\'≠.\\ • M/A/I/D • IKLECTIK"; }</style>
     <img src="assets/images/soundSysPicnic_g_al.png" />
 </section>
 <section data-background-gradient="linear-gradient(to bottom, #0056FF, #466187)" data-state=header1>
