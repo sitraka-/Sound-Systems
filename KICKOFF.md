@@ -14,6 +14,15 @@ custom_head: head-default.html
        <span style="font-weight:bold;">Designing</span> at the intersection of speculative fiction and anthropology, we find a sense of <span style="font-weight:bold;">epistemic humility</span> about the kind of worlds we could or should inhabit.
     </blockquote>
     <aside class="notes">
-        Design does not exist in isolation, it isn't about a singular action. 📝
+    </aside>
+</section>
+<section data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="0.3" data-state=header1>
+    <h3>Design on the outskirt of Space</h3>
+    <aside class="notes">
+    </aside>
+</section>
+<section data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="0.3" data-state=header1>
+    <h3>Objects As Narratives</h3>
+    <aside class="notes">
     </aside>
 </section>
