@@ -23,7 +23,7 @@ custom_head: head-default.html
     </aside>
 </section>
 <section data-background-color="#5cb17a" data-state=kesh>
-    <style>.ande header:after { content: "Le Guin U. & Barton T., Music and Poetry of the Kesh, 1984"; }</style>
+    <style>.kesh header:after { content: "Le Guin U. & Barton T., Music and Poetry of the Kesh, 1984"; }</style>
     <img src="assets/images/Le-Guin2.jpg" />
     <aside class="notes">
     </aside>
