@@ -18,7 +18,7 @@ custom_head: head-default.html
 </section>
 <section data-background-image="assets/images/Sun-Ra-06.jpg" data-background-opacity="0.3" data-state=header1>
     <h3>Speculative Ethnography</h3>
-    <h5>Design as medium to think creatively about the future</h5>
+    <h6>Design as a medium to imagine new Ideological Projects</h6>
     <aside class="notes">
     </aside>
 </section>
