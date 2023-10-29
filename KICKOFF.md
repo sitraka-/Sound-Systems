@@ -67,3 +67,10 @@ custom_head: head-default.html
     <aside class="notes">
     </aside>
 </section>
+<section data-background-color="#5cb17a" data-state=vvfa>
+    <blockquote>
+       <span class="rub">REVERSE<br>ARCHAEOLOGY</span>
+    </blockquote>
+    <aside class="notes">
+    </aside>
+</section>
