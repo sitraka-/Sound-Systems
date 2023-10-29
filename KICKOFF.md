@@ -28,7 +28,7 @@ custom_head: head-default.html
     <aside class="notes">
     </aside>
 </section>
-<section data-background-image="assets/images/spaceElk.jpeg" data-background-opacity="0.3" data-state=header1>
+<section data-background-image="assets/images/spaceElk.jpg" data-background-opacity="0.3" data-state=header1>
     <h3>Imaginaries as Infrastructure</h3>
     <aside class="notes">
     </aside>
