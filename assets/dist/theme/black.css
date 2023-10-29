@@ -172,8 +172,8 @@ header {
 .reveal img,
 .reveal video,
 .reveal iframe {
-  max-width: 95%;
-  max-height: 95%;
+  max-width: 80%;
+  max-height: 80%;
 }
 
 .reveal strong,
