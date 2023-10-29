@@ -6,7 +6,7 @@ custom_head: head-default.html
 <!-- "#0056FF" -->
 <section data-background-gradient="linear-gradient(to bottom, #0056FF, #466187)" data-state=header1>
 <style>.header1 header:after { content: "\\'\\'≠.\\ x M/A/I/D x IKLECTIK"; }</style>
-    <img src="assets/images/soundSysPicnic.png" />
+    <img src="assets/images/soundSysPicnic_g_al.png" />
 </section>
 <section data-background-gradient="linear-gradient(to bottom, #0056FF, #466187)" data-state=header1>
     <blockquote>
