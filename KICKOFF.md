@@ -11,7 +11,7 @@ custom_head: head-default.html
 <section data-background-color="#5cb17a" data-state=ande>
     <style>.ande header:after { content: "Anderson, R. et al., Speculative Anthropologies, 2018"; }</style>
     <blockquote>
-       <span style="font-weight:bold;">Designing</span> at the intersection of speculative fiction and anthropology, we find a sense of <span style="font-weight:bold;">epistemic humility</span> about the kind of worlds we could or should inhabit.
+       <span style="font-weight:bold;">Designing</span> at the intersection of speculative fiction and anthropology, we find a sense of <span style="font-weight:bold;">epistemic humility</span> about the kind of worlds we could or should inhabit [...] It calls us to craft tangible ways of shaping and repairing the worlds we still hope for.
     </blockquote>
     <aside class="notes">
     </aside>
@@ -29,7 +29,7 @@ custom_head: head-default.html
     <aside class="notes">
     </aside>
 </section>
-<section data-background-image="assets/images/spaceElk.jpg" data-background-opacity="0.3" data-state=bez>
+<section data-background-image="assets/images/spaceElk.jpg" data-background-opacity="0.5" data-state=bez>
 <style>.bez header:after { content: "Bezos J., Blue Origin, 2019"; }</style>
     <h3>Imaginaries as Infrastructure</h3>
     <p>Imaginaries as tangible spaces of investigation</p>
@@ -46,8 +46,16 @@ custom_head: head-default.html
     <aside class="notes">
     </aside>
 </section>
-<section data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="0.3" data-state=header1>
+<section data-background-image="assets/images/apolo_rov.jpg" data-background-opacity="0.5" data-state=header1>
     <h3>Objects As Narratives</h3>
+    <aside class="notes">
+    </aside>
+</section>
+<section data-background-image="assets/images/apolosim.jpg" data-background-opacity="0.5" data-state=header1>
+    <aside class="notes">
+    </aside>
+</section>
+<section data-background-image="assets/images/apolloWalking.jpg" data-background-opacity="0.5" data-state=header1>
     <aside class="notes">
     </aside>
 </section>
