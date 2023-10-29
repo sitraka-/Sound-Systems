@@ -52,11 +52,13 @@ custom_head: head-default.html
     <aside class="notes">
     </aside>
 </section>
-<section data-background-image="assets/images/apolosim.jpg" data-background-opacity="0.7" data-state=Apol>
+<section data-background-image="assets/images/apolcom.jpg" data-background-opacity="0.7" data-state=Apol3>
+<style>.Apol3 header:after { content: "NASA, Apollo Command Module Simulator, 1966"; }</style>
     <aside class="notes">
     </aside>
 </section>
-<section data-background-image="assets/images/apolloWalking.jpg" data-background-opacity="0.7" data-state=Apol>
+<section data-background-image="assets/images/apolloWalking.jpg" data-background-opacity="0.7" data-state=Apol2>
+<style>.Apol2 header:after { content: "NASA, Reduced Gravity Walking Simulator, 1965"; }</style>
     <aside class="notes">
     </aside>
 </section>
