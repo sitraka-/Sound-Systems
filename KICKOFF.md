@@ -16,7 +16,8 @@ custom_head: head-default.html
     <aside class="notes">
     </aside>
 </section>
-<section data-background-image="assets/images/Sun-Ra-06.jpg" data-background-opacity="0.3" data-state=header1>
+<section data-background-image="assets/images/Sun-Ra-06.jpg" data-background-opacity="0.3" data-state=sun>
+<style>.sun header:after { content: "Sun Ra, Space Is The Place, 1974"; }</style>
     <h3>Speculative Ethnography</h3>
     <p>Design as a medium to imagine new Ideological Projects</p>
     <aside class="notes">
@@ -28,8 +29,20 @@ custom_head: head-default.html
     <aside class="notes">
     </aside>
 </section>
-<section data-background-image="assets/images/spaceElk.jpg" data-background-opacity="0.3" data-state=header1>
+<section data-background-image="assets/images/spaceElk.jpg" data-background-opacity="0.3" data-state=bez>
+<style>.bez header:after { content: "Bezos J., Blue Origin, 2019"; }</style>
     <h3>Imaginaries as Infrastructure</h3>
+    <p>Imaginaries as tangible spaces of investigation</p>
+    <aside class="notes">
+    </aside>
+</section>
+<section data-background-image="assets/images/Oneill1.jpg" data-background-opacity="1" data-state=on>
+<style>.on header:after { content: "NASA/Guidice R., O'Neill Cylinders, 1976"; }</style>
+    <aside class="notes">
+    </aside>
+</section>
+<section data-background-image="assets/images/oneill_2.jpg" data-background-opacity="1" data-state=on>
+<style>.on header:after { content: "NASA/Guidice R., O'Neill Cylinders, 1976"; }</style>
     <aside class="notes">
     </aside>
 </section>
