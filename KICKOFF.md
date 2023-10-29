@@ -46,16 +46,17 @@ custom_head: head-default.html
     <aside class="notes">
     </aside>
 </section>
-<section data-background-image="assets/images/apolo_rov.jpg" data-background-opacity="0.7" data-state=header1>
+<section data-background-image="assets/images/apolo_rov.jpg" data-background-opacity="0.7" data-state=Apol>
+<style>.Apol header:after { content: "Apollo 17, Grover Astronaut Training, 1972"; }</style>
     <h3>Objects As Narratives</h3>
     <aside class="notes">
     </aside>
 </section>
-<section data-background-image="assets/images/apolosim.jpg" data-background-opacity="0.7" data-state=header1>
+<section data-background-image="assets/images/apolosim.jpg" data-background-opacity="0.7" data-state=Apol>
     <aside class="notes">
     </aside>
 </section>
-<section data-background-image="assets/images/apolloWalking.jpg" data-background-opacity="0.7" data-state=header1>
+<section data-background-image="assets/images/apolloWalking.jpg" data-background-opacity="0.7" data-state=Apol>
     <aside class="notes">
     </aside>
 </section>
