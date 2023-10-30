@@ -149,7 +149,7 @@ custom_head: head-default.html
 <section data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="0.3" data-state=header12 >
 <style>.header12 header:after { content: "Links"; }</style>
     <h1>Good Luck!!</h1>
-    <blockquote style="text-align:left;">
-        <a style="color:white;" href="https://sitraka-.github.io/Sound-Systems/">https://sitraka-.github.io/Sound-Systems/</a><br>
+    <blockquote>
+        <a style="color:white;" href="https://sitraka-.github.io/Sound-Systems/">https://sitraka-.github.io/Sound-Systems/</a>
     </blockquote>
 </section>
