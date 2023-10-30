@@ -6,7 +6,8 @@ custom_head: head-default.html
 <!-- "#0056FF" data-background-gradient="linear-gradient(to bottom, #171c20d4, #466187)" -->
 <section data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="0.3" data-state=header1>
 <style>.header1 header:after { content: "\\'\\'≠.\\ • M/A/I/D • IKLECTIK"; }</style>
-    <img src="assets/images/soundSysPicnic_g_al.png" />
+    <!-- <img src="assets/images/soundSysPicnic_g_al.png" /> -->
+    <h1 class="picnic">SOUND<br>SYSTEMS</h1>
 </section>
 <section data-background-color="#5cb17a" data-state=ande>
     <style>.ande header:after { content: "Anderson, R. et al., Speculative Anthropologies, 2018"; }</style>
@@ -31,7 +32,11 @@ custom_head: head-default.html
 </section>
 <section data-background-image="assets/images/solarTower.avif" data-background-opacity="0.5" data-state=csp>
 <style>.csp header:after { content: "NOOR I, II, II CSP project at Ouarzazate, Morocco, 2018";}</style>
-<span class="rubM" style="color:#5cb17a;">SOLARPUNK</span>
+<span class="rubB" style="color:#5cb17a;">SOLARPUNK</span>
+</section>
+<section data-background-image="assets/images/latinx.jpg" data-background-opacity="0.5" data-state=ltx>
+<style>.ltx header:after { content: "ADÁL, Coconauts in Space, 2016";}</style>
+<span class="rubB" style="color:#5cb17a;">LATINX SCIFI</span>
 </section>
 <section data-background-image="assets/images/spaceElk.jpg" data-background-opacity="0.5" data-state=bez>
 <style>.bez header:after { content: "Bezos J., Blue Origin, 2019"; }</style>
