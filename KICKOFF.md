@@ -26,6 +26,10 @@ custom_head: head-default.html
 <section data-background-image="assets/images/spaceplace.jpg" data-background-opacity="0.5" data-state=sun>
 <span class="rubB" style="color:#5cb17a;">AFROFUTURISM</span>
 </section>
+<section data-background-image="assets/images/solarTower.avif" data-background-opacity="0.5" data-state=csp>
+<style>.csp header:after { content: "NOOR I, II, II CSP project at Ouarzazate, Morocco, 2018";}</style>
+<span class="rubP" style="color:#5cb17a;">SOLARPUNK</span>
+</section>
 <section data-background-image="assets/images/gclintonMothership.jpg" data-background-opacity="0.7" data-state=clint>
 <style>.clint header:after { content: "George Clinton, Mothership Connection, 1976"; }</style>
 </section>
