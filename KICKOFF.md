@@ -162,7 +162,7 @@ custom_head: head-default.html
     <span class="pic">WORLD<br>BUILDING</span>
     <p>Crafting new realities</p>
 </section>
-<section data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="0.3" data-state=map>
-<style>.map header:after { content: "MAPPING"; }</style>
+<section data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="0.3" data-state=map1>
+<style>.map1 header:after { content: "MAPPING, 11:30 — 12:40"; }</style>
     <img src="assets/images/wb.png"/>
 </section>
