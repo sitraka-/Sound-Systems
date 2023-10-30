@@ -166,10 +166,19 @@ custom_head: head-default.html
 <style>.map1 header:after { content: "MAPPING / LOCATIONS: 11:30 — 12:40"; }</style>
     <img src="assets/images/wb.png"/>
 </section>
-<section data-background-image="assets/images/wb.png" data-background-opacity="1" data-state=map2>
+<section data-background-image="assets/images/wb.png" data-background-opacity="0.9" data-state=map1>
+     <p style="text-align:left; font-size:2rem;">AN ISS IN LOW EARTH ORBIT (LEO)</p>
+     <p style="text-align:left; font-size:2rem;">A MOON BASE</p>
+     <p style="text-align:left; font-size:2rem;">A MARS OUTPOST</p>
+     <p style="text-align:left; font-size:2rem;">AN INTERGENERATIONAL SPACECRAFT</p>
+</section>
+<section data-background-image="assets/images/wb.png" data-background-opacity="0.9" data-state=map2>
 <style>.map2 header:after { content: "MAPPING / PILLARS: 14:00 — 14:40"; }</style>
      <p style="text-align:left; font-size:2rem;">GOVERNANCE</p>
      <p style="text-align:left; font-size:2rem;">ECONOMICS</p>
      <p style="text-align:left; font-size:2rem;">ETHICS</p>
      <p style="text-align:left; font-size:2rem;">COMMUNITY</p>
 </section>
+
+
+
