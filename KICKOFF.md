@@ -189,6 +189,11 @@ custom_head: head-default.html
 <section data-background-image="assets/images/wb.png" data-background-opacity="0.9" data-state=rit>
      <img src="assets/images/trucksim.jpg"/>
 </section>
+<section data-background-image="assets/images/wb.png" data-background-opacity="0.9" data-state=rit>
+     <p style="text-align:left; font-size:2rem;">WHO IS IT FOR?</p>
+     <p style="text-align:left; font-size:2rem;">WHAT IS ITS PURPOSE?</p>
+     <p style="text-align:left; font-size:2rem;">WHERE IS IT?</p>
+</section>
 
 
 
