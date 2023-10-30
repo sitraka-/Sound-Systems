@@ -159,6 +159,6 @@ custom_head: head-default.html
     </blockquote>
 </section>
 <section data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="0.3" data-state=header1>
-    <span class="pic">WORLD-BUILDING</span>
-    <h6>Speculative contexts stemming from reality</h6>
+    <span class="pic">WORLD<br>BUILDING</span>
+    <h6>Crafting new realities</h6>
 </section>
