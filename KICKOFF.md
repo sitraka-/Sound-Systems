@@ -166,33 +166,33 @@ custom_head: head-default.html
 <style>.map1 header:after { content: "MAPPING / LOCATIONS: 11:30 — 12:40"; }</style>
     <img src="assets/images/wb.png"/>
 </section>
-<section data-background-image="assets/images/wb.png" data-background-opacity="0.9" data-state=map1>
+<section data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="0.3" data-state=map1>
      <p style="text-align:left; font-size:2rem;">• AN ISS IN LOW EARTH ORBIT (LEO)</p>
      <p style="text-align:left; font-size:2rem;">• A MOON BASE</p>
      <p style="text-align:left; font-size:2rem;">• A MARS OUTPOST</p>
      <p style="text-align:left; font-size:2rem;">• AN INTERGENERATIONAL SPACECRAFT</p>
 </section>
-<section data-background-image="assets/images/wb.png" data-background-opacity="0.5" data-state=map2>
+<section data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="0.3" data-state=map2>
 <style>.map2 header:after { content: "MAPPING / PILLARS: 14:00 — 14:40"; }</style>
      <p style="text-align:left; font-size:2rem;">GOVERNANCE</p>
      <p style="text-align:left; font-size:2rem;">ECONOMICS</p>
      <p style="text-align:left; font-size:2rem;">ETHICS</p>
      <p style="text-align:left; font-size:2rem;">COMMUNITY</p>
 </section>
-<section data-background-image="assets/images/wb.png" data-background-opacity="0.5" data-state=header1>
+<section data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="0.3" data-state=header1>
     <span class="pic">CRAFTING<br>RITUALS</span>
 </section>
-<section data-background-image="assets/images/wb.png" data-background-opacity="0.5" data-state=rit>
+<section data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="0.3" data-state=rit>
 <style>.rit header:after { content: "CRAFTING RITUALS: 15:00 — 16:00"; }</style>
      <img src="assets/images/tomsachs.webp"/>
 </section>
-<section data-background-image="assets/images/wb.png" data-background-opacity="0.5" data-state=rit>
+<section data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="0.3" data-state=rit>
      <img src="assets/images/spaceceleb.jpg"/>
 </section>
-<section data-background-image="assets/images/wb.png" data-background-opacity="0.5" data-state=rit>
+<section data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="0.3" data-state=rit>
      <img src="assets/images/trucksim.jpg"/>
 </section>
-<section data-background-image="assets/images/wb.png" data-background-opacity="0.5" data-state=rit>
+<section data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="0.3" data-state=rit>
      <p style="text-align:left; font-size:2rem;">WHO IS IT FOR?</p>
      <p style="text-align:left; font-size:2rem;">WHAT IS ITS PURPOSE?</p>
      <p style="text-align:left; font-size:2rem;">WHERE IS IT?</p>
