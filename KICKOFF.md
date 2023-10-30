@@ -163,6 +163,13 @@ custom_head: head-default.html
     <p>Crafting new realities</p>
 </section>
 <section data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="0.3" data-state=map1>
-<style>.map1 header:after { content: "MAPPING, 11:30 — 12:40"; }</style>
+<style>.map1 header:after { content: "MAPPING / LOCATIONS: 11:30 — 12:40"; }</style>
     <img src="assets/images/wb.png"/>
+</section>
+<section data-background-image="assets/images/wb.png" data-background-opacity="1" data-state=map2>
+<style>.map2 header:after { content: "MAPPING / PILLARS: 14:00 — 14:40"; }</style>
+     <p style="text-align:left; font-size:2rem;">GOVERNANCE</p>
+     <p style="text-align:left; font-size:2rem;">ECONOMICS</p>
+     <p style="text-align:left; font-size:2rem;">ETHICS</p>
+     <p style="text-align:left; font-size:2rem;">COMMUNITY</p>
 </section>
