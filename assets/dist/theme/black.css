@@ -97,7 +97,9 @@ section.has-light-background h6 {
 }
 
 .pic {
-  font-family: var(--pic-font);
+  font-family: var(--pic-font) !important;
+  font-size: 10rem !important;
+  color: var(--r-heading-color);
 }
 
 .rubM {

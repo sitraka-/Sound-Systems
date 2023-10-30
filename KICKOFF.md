@@ -7,7 +7,7 @@ custom_head: head-default.html
 <section data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="0.3" data-state=header1>
 <style>.header1 header:after { content: "\\'\\'≠.\\ • M/A/I/D • IKLECTIK"; }</style>
     <!-- <img src="assets/images/soundSysPicnic_g_al.png" /> -->
-    <h1 class="pic">SOUND<br>SYSTEMS</h1>
+    <span class="pic">SOUND<br>SYSTEMS</span>
 </section>
 <section data-background-color="#5cb17a" data-state=ande>
     <style>.ande header:after { content: "Anderson, R. et al., Speculative Anthropologies, 2018"; }</style>
@@ -157,4 +157,8 @@ custom_head: head-default.html
     <blockquote>
         <a style="color:white;" href="https://sitraka-.github.io/Sound-Systems/">https://sitraka-.github.io/Sound-Systems/</a>
     </blockquote>
+</section>
+<section data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="0.3" data-state=header1>
+    <span class="pic">WORLD-BUILDING</span>
+    <h6>Speculative contexts stemming from reality</h6>
 </section>
