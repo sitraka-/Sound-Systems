@@ -179,6 +179,17 @@ custom_head: head-default.html
      <p style="text-align:left; font-size:2rem;">ETHICS</p>
      <p style="text-align:left; font-size:2rem;">COMMUNITY</p>
 </section>
+<section data-background-image="assets/images/wb.png" data-background-opacity="0.9" data-state=rit>
+<style>.rit header:after { content: "CRAFTING RITUALS: 15:00 — 16:00"; }</style>
+     <img src="assets/images/tomsachs.webp"/>
+</section>
+<section data-background-image="assets/images/wb.png" data-background-opacity="0.9" data-state=rit>
+     <img src="assets/images/spaceceleb.jpg"/>
+</section>
+<section data-background-image="assets/images/wb.png" data-background-opacity="0.9" data-state=rit>
+     <img src="assets/images/trucksim.jpg"/>
+</section>
+
 
 
 
