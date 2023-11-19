@@ -157,6 +157,14 @@ header {
   padding: 1rem;
 }
 
+@media (max-width : 500px) {
+
+  header,
+  #_date {
+    font-size: 1rem;
+  }
+}
+
 .reveal h1,
 .reveal h2,
 .reveal h3,
