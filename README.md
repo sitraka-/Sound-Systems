@@ -101,6 +101,7 @@ Get started with [Teensy](TEENSY.md) and the [audio shield](FIRSTSOUND.md).
 > - [Frequency Control](CONTROL.md)
 > - [More Inputs](MOREINPUTS.md)
 > - [Timetable & Key dates](README.md#timetable--2023)
+> - [Gallery](GALLERY.md)
 >   
 ## TECHNICAL REFERENCES
 >    

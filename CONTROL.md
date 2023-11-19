@@ -156,6 +156,7 @@ In the following segment, we will look at using [push buttons, light and sound a
 > - [Frequency Control](CONTROL.md)
 > - [More Inputs](MOREINPUTS.md)
 > - [Timetable & Key dates](README.md#timetable--2023)
+> - [Gallery](GALLERY.md)
 >   
 ## TECHNICAL REFERENCES
 >    

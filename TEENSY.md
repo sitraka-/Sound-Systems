@@ -102,6 +102,7 @@ If it all went well you should have the LED on your board blinking. Now that we 
 > - [Frequency Control](CONTROL.md)
 > - [More Inputs](MOREINPUTS.md)
 > - [Timetable & Key dates](README.md#timetable--2023)
+> - [Gallery](GALLERY.md)
 >   
 ## TECHNICAL REFERENCES
 >    

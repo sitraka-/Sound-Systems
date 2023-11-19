@@ -165,6 +165,7 @@ In the following section, we'll explore how to manage the [frequency control](CO
 > - [Frequency Control](CONTROL.md)
 > - [More Inputs](MOREINPUTS.md)
 > - [Timetable & Key dates](README.md#timetable--2023)
+> - [Gallery](GALLERY.md)
 >   
 ## TECHNICAL REFERENCES
 >    

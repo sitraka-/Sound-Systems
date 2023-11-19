@@ -456,6 +456,7 @@ The second technical tutorial is a comprehensive playlist where a music enthusia
 > - [Frequency Control](CONTROL.md)
 > - [More Inputs](MOREINPUTS.md)
 > - [Timetable & Key dates](README.md#timetable--2023)
+> - [Gallery](GALLERY.md)
 >   
 ## TECHNICAL REFERENCES
 >    
