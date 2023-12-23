@@ -82,7 +82,7 @@ During our studio time, we will delve deeper into the functionalities and capabi
 | Dec. 5 | DESIGN Review |
 | Jan. 9 | AUDIO + WRITINGS Hand-in |
 | Jan. 16 | DOCUMENTATION Hand-in |
-| Feb. 1 | PERFORMANCE @ IKLECTIK
+| Jan. 21 | PERFORMANCE @ The Yard Theatre
 
 ## [WHAT'S NEXT?](TEENSY.md)
 

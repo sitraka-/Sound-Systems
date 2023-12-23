@@ -145,8 +145,8 @@ custom_head: head-default.html
             <td></td>
         </tr>
         <tr>
-            <td style="font-weight: bold;background-color: #5cb17a; color: white;">Feb. 1</td>
-            <td style="font-weight: bold;background-color: #5cb17a; color: white;">PERFORMANCE @ IKLECTIK</td>
+            <td style="font-weight: bold;background-color: #5cb17a; color: white;">Jan. 21</td>
+            <td style="font-weight: bold;background-color: #5cb17a; color: white;">PERFORMANCE @ The Yard Theatre</td>
             <td></td>
         </tr>
     </table>
@@ -180,7 +180,7 @@ custom_head: head-default.html
      <p style="text-align:left; font-size:2rem;">COMMUNITY</p>
 </section>
 <section data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="0.3" data-state=header1>
-    <span class="pic">CRAFTING<br>new<br>RITUALS</span>
+    <span class="pic">new<br>RITUALS</span>
 </section>
 <section data-background-image="assets/images/AC76-0492.1.jpeg" data-background-opacity="0.3" data-state=rit>
 <style>.rit header:after { content: "CRAFTING RITUALS: 15:00 — 16:00"; }</style>
