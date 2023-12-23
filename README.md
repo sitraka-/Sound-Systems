@@ -70,8 +70,8 @@ During our studio time, we will delve deeper into the functionalities and capabi
 | <span class="break">__*WINTER*__</span> | <span class="break">__*BREAK*__</span> 
 | Jan. 9 | __*AUDIO + WRITINGS Hand-in*__ | Performance making | [Malena Arcucci](https://malenaarcucci.com/)
 | Jan. 16 | __*DOCUMENTATION Hand-in*__ | Performance making |
-| Jan. 23 | Rehearsal | Rehearsal |
-| <span class="hi">Feb. 1</span> | <span class="hi">__*PERFORMANCE @ IKLECTIK*__ </span>
+| <span class="hi">Jan. 21</span> | <span class="hi">__*PERFORMANCE @ THE YARD THEATRE*__ </span> |
+
 
 ## KEY DATES → 2023
 
