@@ -12,7 +12,8 @@
     --quote-font:
         'Vesper Libre', serif;
     --maxW: 50%;
-    --minW: 700px;
+    --minW: 550px;
+    --minmin: 550px;
 }
 
 body {
@@ -25,7 +26,7 @@ body {
     color: var(--main-color);
     font-family: var(--body-font);
     line-height: 1.4;
-    font-size: 1rem;
+    font-size: 0.8rem;
     /*     text-align: justify; */
     margin: 0;
     padding: 2rem 3rem 3rem 3rem;
@@ -51,7 +52,7 @@ body::before {
 
 .markdown-body {
     min-width: var(--minW);
-    width: 33%;
+    max-width: var(--minW);
     z-index: 0;
 }
 
@@ -70,11 +71,9 @@ blockquote {
     font-family: var(--quote-font);
     /*     font-style:italic; */
     border-left: solid 3px var(--link-color);
-
     margin: 0;
     padding: 1rem 2rem;
-    font-size: 1.2rem;
-
+    font-size: 01rem;
 }
 
 img:first-child {
@@ -104,7 +103,7 @@ hr {
 }
 
 p {
-    max-width: 800px;
+    max-width: 100%;
 }
 
 blockquote:last-of-type {
@@ -117,11 +116,10 @@ blockquote:last-of-type {
     word-wrap: break-word;
     hyphens: auto;
     font-family: var(--body-font);
-    margin-left: 3rem;
-    font-size: 1rem;
+    /* margin-left: 3rem; */
+    font-size: 0.8rem;
     background: none;
     border-left: dashed thin var(--link-color);
-
 }
 
 blockquote:last-of-type h1 {
@@ -179,7 +177,7 @@ code {
     }
 
     .markdown-body {
-        max-width: 700px;
+        max-width: var(--minW);
         width: 100%;
     }
 }
@@ -201,7 +199,7 @@ code {
 @media only screen and (min-width: 1700px) {
     .markdown-body {
         max-width: var(--minW);
-        width: var(--minW);
+        width: var(--minW) !important;
         /*         background: red; */
     }
 
@@ -212,14 +210,14 @@ code {
 
 @media only screen and (max-width: 1700px) {
     .markdown-body {
-        min-width: 50%;
-        max-width: 700px;
+        /* min-width: 50%; */
+        max-width: var(--minW);
         /* width: 100%; */
         /*         background: red; */
     }
 
     blockquote:last-of-type {
-        width: calc(50% - 9rem);
+        width: 550px;
     }
 }
 
